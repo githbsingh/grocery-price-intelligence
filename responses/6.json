@@ -1,0 +1,1214 @@
+{
+  "header_section": {
+    "address_config": {
+      "address_icon": {
+        "home": "https://www.bbassets.com/media/uploads/home-WHITE.png",
+        "office": "https://www.bbassets.com/media/uploads/Building.png",
+        "others": "https://www.bbassets.com/media/uploads/pin.png"
+      },
+      "address_text": {
+        "color": "#FFFFFF",
+        "partial": {
+          "text": "Selected Location"
+        },
+        "complete": {
+          "text": "Deliver to"
+        },
+        "no_address": {
+          "text": "Select Location",
+          "sub_text": "Location helps us show .."
+        }
+      },
+      "background_gradient": {
+        "end": [
+          -1,
+          0
+        ],
+        "begin": [
+          1,
+          0
+        ],
+        "colors": [
+          {
+            "color": "#FFFFFF",
+            "opacity": 0
+          },
+          {
+            "color": "#FFFFFF",
+            "opacity": 0.2
+          }
+        ]
+      },
+      "side_notch": {
+        "media_type": "gradient",
+        "gradient": {
+          "end": [
+            0.02,
+            1
+          ],
+          "begin": [
+            -0.02,
+            -1
+          ],
+          "colors": [
+            {
+              "color": "#FFFFFF",
+              "opacity": 1
+            },
+            {
+              "color": "#FFFFFF",
+              "opacity": 0.2
+            }
+          ]
+        },
+        "image": ""
+      },
+      "blur_value": {
+        "x": 2,
+        "y": 2
+      },
+      "dropdown_icon": "https://www.bbassets.com/media/uploads/arrow-down-light.png"
+    },
+    "top_menu": {
+      "hamburger_menu_icons": [
+        {
+          "channel": [
+            "BB-Android",
+            "BB-IOS"
+          ],
+          "icon_url": "https://www.bbassets.com/media/uploads/Icons.png",
+          "display_order": 1,
+          "destination_url": "",
+          "destination_deep_link": "bigbasket://my_profile"
+        }
+      ]
+    },
+    "title_bar": {
+      "title_text": {
+        "text": "<b>Hello, there!</b>",
+        "color": "#FFFFFF",
+        "visibility": "show"
+      },
+      "title_desc": {
+        "color": "#F1F8E5",
+        "visibility": "show",
+        "description": [
+          {
+            "text": "When do you need your groceries delivered?",
+            "interval": 1,
+            "visibility": "show"
+          }
+        ],
+        "is_repeated": false
+      }
+    },
+    "background": {
+      "media_type": "gradient",
+      "color": "",
+      "gradient": {
+        "end": [
+          0,
+          1
+        ],
+        "begin": [
+          0,
+          -1
+        ],
+        "colors": [
+          {
+            "color": "#5E9400",
+            "opacity": 1
+          },
+          {
+            "color": "#2F4A00",
+            "opacity": 1
+          }
+        ]
+      },
+      "image": "",
+      "gif": "",
+      "video": "",
+      "video_placeholder_image_link": "",
+      "bottom_radius": 24,
+      "padding": 14,
+      "fallback_color": "#5E9400",
+      "animation_count": 0
+    }
+  },
+  "selected_address_info": {
+    "nick": "",
+    "id": "375531676",
+    "lng": 78.33,
+    "lat": 32.84,
+    "pin": 560004,
+    "address1": "",
+    "address2": "",
+    "area": "",
+    "bb2_enabled": false,
+    "is_5k": false,
+    "sa_city_id": 1,
+    "source_id": 1,
+    "address_type": 1,
+    "city_name": "Bangalore",
+    "city_id": 1,
+    "city_short_name": "BLR",
+    "first_name": "",
+    "last_name": "",
+    "contact_no": "-1000000000",
+    "use_contact_no": false,
+    "bb1_backendcity_id": 1,
+    "is_current_delivery": false,
+    "is_partial": true,
+    "is_mach_disabled": false,
+    "is_default": false,
+    "member_class": "visitor",
+    "is_bbd_member": false
+  },
+  "serviceable_ecs": [
+    100,
+    10,
+    10000,
+    10002,
+    10003
+  ],
+  "sa_list": [
+    {
+      "sa_id": 19224,
+      "dms": [
+        2
+      ],
+      "entry_context_ids": [
+        10
+      ],
+      "sa_group_id": []
+    },
+    {
+      "sa_id": 19226,
+      "dms": [],
+      "entry_context_ids": [
+        100
+      ],
+      "sa_group_id": []
+    }
+  ],
+  "door_section": {
+    "layout": {
+      "columns": 2,
+      "expanded_odd_card": true
+    },
+    "bottom_sheet_config": {
+      "text": "Grocery shopping your way",
+      "sub_text": "When do you need your groceries delivered?",
+      "text_color": "#000000",
+      "sub_text_color": "#000000",
+      "show_door_image": false
+    },
+    "door_page_config": {
+      "footer_image": "https://www.bbassets.com/media/uploads/Footer.png",
+      "one_ec_config": {
+        "show_door_page": false,
+        "show_ec_switcher": false,
+        "single_ec_homepage_logo": "https://bigbasket.com/media/uploads/b2clogo_updated.png"
+      },
+      "skip_doors_ecs": [
+        101,
+        103,
+        18,
+        19
+      ],
+      "default_landing_ec_config": {
+        "show_door_page": true,
+        "default_door_ec": 10
+      }
+    },
+    "doors": [
+      {
+        "display_order": 1,
+        "id": 100,
+        "slug": "bb-b2c",
+        "display_name": "bigbasket",
+        "app_behaviour": "standard",
+        "padding": 8,
+        "radius": 16,
+        "door_properties": {
+          "service_for_eta_call": "slot",
+          "default_entry_allowed": true,
+          "default_checkout_allowed": true
+        },
+        "destination": {
+          "url": "",
+          "dest_slug": "bigbasket://home?ec_id=100",
+          "dest_type": "deep_link"
+        },
+        "background": {
+          "media_type": "gradient",
+          "image": "",
+          "color": "",
+          "gradient": {
+            "end": [
+              0,
+              1
+            ],
+            "begin": [
+              0,
+              -1
+            ],
+            "colors": [
+              {
+                "color": "#E4F1CC",
+                "opacity": 0
+              },
+              {
+                "color": "#E4F1CC ",
+                "opacity": 1
+              }
+            ]
+          },
+          "fallback_color": "#F8FBF2"
+        },
+        "image": {
+          "media_type": "image",
+          "image": "https://www.bbassets.com/media/uploads/bbss_door_illustration.png",
+          "animation": "",
+          "animation_count": 3,
+          "visibility": "show"
+        },
+        "eta": {
+          "background": "#E4F1CC",
+          "icon": "https://www.bbassets.com/media/uploads/Time.png",
+          "text_color": "#2F4A00",
+          "text_override": "",
+          "visibility": "show",
+          "override_valueprop_eta": false,
+          "door_status": "open",
+          "entry_allowed": true,
+          "checkout_allowed": true,
+          "eta_popup_message": "",
+          "eta_message": "(Slots Full)",
+          "fallback_eta_message": "(Slots Full)",
+          "use_client_cache": false
+        },
+        "logo": {
+          "image": "https://www.bbassets.com/media/uploads/b2clogo.png",
+          "visibility": "show"
+        },
+        "value_proposition": {
+          "icon": "https://www.bbassets.com/media/uploads/arrow-right.png",
+          "text": "Bigger Savings",
+          "visibility": "show",
+          "background_gradient": {
+            "end": [
+              0,
+              1
+            ],
+            "begin": [
+              0,
+              -1
+            ],
+            "colors": [
+              {
+                "color": "#5E9400",
+                "opacity": 1
+              },
+              {
+                "color": "#5E9400",
+                "opacity": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "display_order": 2,
+        "id": 10,
+        "slug": "bbnow",
+        "display_name": "bbnow",
+        "app_behaviour": "express",
+        "padding": 8,
+        "radius": 16,
+        "door_properties": {
+          "service_for_eta_call": "eta",
+          "default_entry_allowed": false,
+          "default_checkout_allowed": false
+        },
+        "destination": {
+          "url": "",
+          "dest_slug": "bigbasket://home?ec_id=10",
+          "dest_type": "deep_link"
+        },
+        "background": {
+          "media_type": "gradient",
+          "image": "",
+          "color": "",
+          "gradient": {
+            "end": [
+              0,
+              1
+            ],
+            "begin": [
+              0,
+              -1
+            ],
+            "colors": [
+              {
+                "color": "#E4F1CC",
+                "opacity": 0
+              },
+              {
+                "color": "#E4F1CC",
+                "opacity": 1
+              }
+            ]
+          },
+          "fallback_color": "#F8FBF2"
+        },
+        "image": {
+          "media_type": "image",
+          "image": "https://bigbasket.com/media/uploads/bbnow_door_illustration.png",
+          "animation": "",
+          "animation_count": 3,
+          "visibility": "show"
+        },
+        "eta": {
+          "background": "#E4F1CC",
+          "icon": "https://www.bbassets.com/media/uploads/BBNow_Green_ETA.png",
+          "text_color": "#2F4A00",
+          "text_override": "",
+          "visibility": "show",
+          "override_valueprop_eta": false,
+          "door_status": "open",
+          "entry_allowed": true,
+          "checkout_allowed": true,
+          "eta_popup_message": "",
+          "eta_message": "10 mins",
+          "fallback_eta_message": "10 mins",
+          "use_client_cache": false
+        },
+        "logo": {
+          "image": "https://www.bbassets.com/media/uploads/bbnowlogo_updated.png",
+          "visibility": "show"
+        },
+        "value_proposition": {
+          "icon": "https://www.bbassets.com/media/uploads/arrow-right.png",
+          "text": "Quicker delivery",
+          "visibility": "show",
+          "background_gradient": {
+            "end": [
+              0,
+              1
+            ],
+            "begin": [
+              0,
+              -1
+            ],
+            "colors": [
+              {
+                "color": "#5E9400",
+                "opacity": 1
+              },
+              {
+                "color": "#5E9400",
+                "opacity": 1
+              }
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "education": {
+    "door_page_stories": {
+      "ec_stories": {
+        "doors": {
+          "next": {
+            "text": "Skip",
+            "visibility": "show"
+          },
+          "type": "story",
+          "close": {
+            "text": "Close",
+            "visibility": "gone"
+          },
+          "slides": {},
+          "auto_exit": false,
+          "progress_bar": {
+            "background": "#7D7D7D",
+            "fill_color": "#FFFFFF"
+          },
+          "max_auto_views": {
+            "max_per_device": 1,
+            "max_per_session": 1
+          }
+        }
+      },
+      "revisit_widget_threshold": 5,
+      "new_door_impression_threshold": 0,
+      "others": {}
+    },
+    "other_page_stories": {}
+  },
+  "themes": {
+    "10": {
+      "ascent_color": "",
+      "basket_message_success_bg_color": "#76B900",
+      "basket_message_success_text_color": "#FFFFFF",
+      "basket_message_warning_bg_color": "#E95963",
+      "basket_message_warning_text_color": "#FFFFFF",
+      "bbnow_ad_hoc_closure_harmonix_header": {
+        "eta_description": "Delivers in",
+        "logo_alignment": "center",
+        "mode": "dark",
+        "overrides": {
+          "address-master.colour.icon.delivery.inverse": "#FFFFFF",
+          "address-master.colour.type.content-address.label-whole-address.inverse": "#FFFFFF",
+          "address-master.colour.type.content-delivery.label-delivery.inverse": "#FFFFFF",
+          "address-master.colour.type.content-delivery.label-non-interacive.inverse": "#FFFFFF",
+          "header.colour.surface.default": "#035155",
+          "header.colour.surface.enabled.default": "#035155",
+          "header.colour.surface.enabled.inverse": "#035155"
+        },
+        "theme": {}
+      },
+      "bbnow_operational_hours_closure_harmonix_header": {
+        "eta_description": "Delivers in",
+        "logo_alignment": "center",
+        "mode": "dark",
+        "overrides": {
+          "address-master.colour.icon.delivery.inverse": "#FFFFFF",
+          "address-master.colour.type.content-address.label-whole-address.inverse": "#FFFFFF",
+          "address-master.colour.type.content-delivery.label-delivery.inverse": "#FFFFFF",
+          "address-master.colour.type.content-delivery.label-non-interacive.inverse": "#FFFFFF",
+          "header.colour.surface.default": "#035155",
+          "header.colour.surface.enabled.default": "#035155",
+          "header.colour.surface.enabled.inverse": "#035155"
+        },
+        "theme": {}
+      },
+      "bottombar_bg_color": "#FFFFFF",
+      "bottombar_ec_icon": "https://www.bigbasket.com/media/uploads/bb_homeicon-unselected.png",
+      "bottombar_highlight_color": "#5E9400",
+      "bottombar_switch_bg_color": "#FFFFFF",
+      "bottombar_switch_ec_icon": "https://www.bigbasket.com/media/uploads/bb_homeicon-unselected.png",
+      "common_header_gradient_color": {
+        "begin": [
+          0,
+          -1
+        ],
+        "colors": [
+          {
+            "color": "#F5F5F5",
+            "opacity": 1
+          },
+          {
+            "color": "#F5F5F5",
+            "opacity": 1
+          }
+        ],
+        "end": [
+          0,
+          1
+        ]
+      },
+      "cta_color": "#D63333",
+      "default_harmonix_header": {
+        "eta_description": "Delivers in",
+        "logo_alignment": "center",
+        "mode": "dark",
+        "overrides": {
+          "address-master.colour.icon.delivery.inverse": "#FFFFFF",
+          "address-master.colour.type.content-address.label-whole-address.inverse": "#FFFFFF",
+          "address-master.colour.type.content-delivery.label-delivery.inverse": "#FFFFFF",
+          "address-master.colour.type.content-delivery.label-non-interacive.inverse": "#FFFFFF",
+          "header.colour.surface.default": "#035155",
+          "header.colour.surface.enabled.default": "#035155",
+          "header.colour.surface.enabled.inverse": "#035155"
+        },
+        "theme": {}
+      },
+      "ec_header_gradient_color": {
+        "begin": [
+          0,
+          -1
+        ],
+        "colors": [
+          {
+            "color": "#0358B8",
+            "opacity": 1
+          },
+          {
+            "color": "#0358B8",
+            "opacity": 1
+          }
+        ],
+        "end": [
+          0,
+          1
+        ]
+      },
+      "ec_other_pages_header_gradient_color": {
+        "begin": [
+          0,
+          -1
+        ],
+        "colors": [
+          {
+            "color": "#F5F5F5",
+            "opacity": 1
+          },
+          {
+            "color": "#F5F5F5",
+            "opacity": 1
+          }
+        ],
+        "end": [
+          0,
+          1
+        ]
+      },
+      "header_images": {
+        "address_bg_color": "#EFF7E1",
+        "address_nickname_icon": {
+          "home": "https://www.bigbasket.com/media/uploads/green-home.png",
+          "office": "https://www.bigbasket.com/media/uploads/Green-home_icon.png",
+          "others": "https://www.bigbasket.com/media/uploads/green-location.png"
+        },
+        "nickname_text_colour": "#476F00",
+        "strip_color": "#C8E399"
+      },
+      "header_type": "default",
+      "homepage_logo": "https://www.bigbasket.com/media/uploads/2025/4/25/DarkBack_1.png",
+      "navbar_title_color": "#363636",
+      "order_tracking_progressbar_color": "#5E9400",
+      "order_tracking_route_color": "#5E9400",
+      "primary_color": "",
+      "quick_filter_bg_color": "#0358B8",
+      "quick_filter_border_color": "#ADD566",
+      "quick_filter_text_color": "#2F4A00",
+      "secondary_color": "",
+      "slotted_closure_harmonix_header": {
+        "eta_description": "Delivers in",
+        "logo_alignment": "center",
+        "mode": "dark",
+        "overrides": {
+          "address-master.colour.icon.delivery.inverse": "#FFFFFF",
+          "address-master.colour.type.content-address.label-whole-address.inverse": "#FFFFFF",
+          "address-master.colour.type.content-delivery.label-delivery.inverse": "#FFFFFF",
+          "address-master.colour.type.content-delivery.label-non-interacive.inverse": "#FFFFFF",
+          "header.colour.surface.default": "#035155",
+          "header.colour.surface.enabled.default": "#035155",
+          "header.colour.surface.enabled.inverse": "#035155"
+        },
+        "theme": {}
+      },
+      "splash_animation_source": "",
+      "subtext": "Everyday needs, Instantly delivered",
+      "subtext_eta_icon": "https://www.bigbasket.com/media/uploads/BBNow_Green_ETA.png",
+      "surge_harmonix_header": {
+        "duration_fixed": true,
+        "duration_pill": 5,
+        "eta_description": "Surge",
+        "mode": "dark",
+        "overrides": {
+          "address-master.colour.icon.delivery.inverse": "#FFFFFF",
+          "address-master.colour.type.content-address.label-whole-address.inverse": "#FFFFFF",
+          "address-master.colour.type.content-delivery.label-delivery.inverse": "#FFFFFF",
+          "address-master.colour.type.content-delivery.label-non-interacive.inverse": "#FFFFFF",
+          "header.colour.surface.default": "#035155",
+          "header.colour.surface.surge.default": "#035155",
+          "header.colour.surface.surge.inverse": "#035155"
+        },
+        "pill_text": "Surge Applicable on orders below 499",
+        "theme": {}
+      },
+      "tab_info": [
+        {
+          "deeplink": "type=hp&slug=hp",
+          "icon_properties": {
+            "fallback_selected": "",
+            "fallback_unselected": "",
+            "icon_type": "network",
+            "selected_state": "https://www.bbassets.com/media/uploads/home_selected_20251222.png",
+            "unselected_state": "https://www.bbassets.com/media/uploads/home_unselected_20251222.png"
+          },
+          "page_type": "homePage",
+          "text": "Home"
+        },
+        {
+          "deeplink": "type=dy&slug=catnav",
+          "icon_properties": {
+            "fallback_selected": "",
+            "fallback_unselected": "",
+            "icon_type": "network",
+            "selected_state": "https://www.bbassets.com/media/uploads/categories_selected_20251222.png",
+            "unselected_state": "https://www.bbassets.com/media/uploads/categories_unselected_20251222.png"
+          },
+          "page_type": "dynamicPage",
+          "text": "Categories"
+        },
+        {
+          "deeplink": "type=dy&slug=mem.sb",
+          "icon_properties": {
+            "fallback_selected": "",
+            "fallback_unselected": "",
+            "icon_type": "network",
+            "selected_state": "https://www.bbassets.com/media/uploads/2026/3/3/smartbasket_selected_20260303.png",
+            "unselected_state": "https://www.bbassets.com/media/uploads/2026/3/3/smartbasket_unselected_20260303.png"
+          },
+          "page_type": "smartBasket",
+          "text": "Order again"
+        }
+      ]
+    },
+    "12": {},
+    "13": {
+      "subtext": "Wide range & huge variety",
+      "cta_color": "#D63333",
+      "ascent_color": "",
+      "header_images": {
+        "strip_color": "#C8E399",
+        "address_bg_color": "#EFF7E1",
+        "nickname_text_colour": "#476F00",
+        "address_nickname_icon": {
+          "home": "https://www.bbassets.com/media/uploads/green-home.png",
+          "office": "https://www.bbassets.com/media/uploads/Green-home_icon.png",
+          "others": "https://www.bbassets.com/media/uploads/green-location.png"
+        }
+      },
+      "homepage_logo": "https://www.bbassets.com/media/uploads/theme_meats_logo.png",
+      "primary_color": "",
+      "secondary_color": "",
+      "subtext_eta_icon": "https://www.bbassets.com/media/uploads/b2c-subtext_icon.png",
+      "bottombar_ec_icon": "https://www.bbassets.com/media/uploads/Meat_home_Selected.png",
+      "bottombar_bg_color": "#FFFFFF",
+      "navbar_title_color": "#363636",
+      "quick_filter_bg_color": "#F1F8E5",
+      "quick_filter_text_color": "#2F4A00",
+      "splash_animation_source": "",
+      "bottombar_switch_ec_icon": "https://www.bbassets.com/media/uploads/Meat_home_Unselected.png",
+      "ec_header_gradient_color": {
+        "end": [
+          0,
+          1
+        ],
+        "begin": [
+          0,
+          -1
+        ],
+        "colors": [
+          {
+            "color": "#F1F8E5",
+            "opacity": 1
+          },
+          {
+            "color": "#F1F8E5",
+            "opacity": 0
+          }
+        ]
+      },
+      "bottombar_highlight_color": "#5E9400",
+      "bottombar_switch_bg_color": "#FFFFFF",
+      "quick_filter_border_color": "#ADD566",
+      "common_header_gradient_color": {
+        "end": [
+          0,
+          1
+        ],
+        "begin": [
+          0,
+          -1
+        ],
+        "colors": [
+          {
+            "color": "#F5F5F5",
+            "opacity": 1
+          },
+          {
+            "color": "#F5F5F5",
+            "opacity": 1
+          }
+        ]
+      },
+      "basket_message_success_bg_color": "#76B900",
+      "basket_message_warning_bg_color": "#E95963",
+      "basket_message_success_text_color": "#FFFFFF",
+      "basket_message_warning_text_color": "#FFFFFF",
+      "ec_other_pages_header_gradient_color": {
+        "end": [
+          0,
+          1
+        ],
+        "begin": [
+          0,
+          -1
+        ],
+        "colors": [
+          {
+            "color": "#F5F5F5",
+            "opacity": 1
+          },
+          {
+            "color": "#F5F5F5",
+            "opacity": 1
+          }
+        ]
+      }
+    },
+    "14": {
+      "subtext": "Quick delivery & quality products",
+      "cta_color": "#D63333",
+      "ascent_color": "",
+      "header_images": {
+        "strip_color": "#C8E399",
+        "address_bg_color": "#EFF7E1",
+        "nickname_text_colour": "#476F00",
+        "address_nickname_icon": {
+          "home": "https://www.bbassets.com/media/uploads/green-home.png",
+          "office": "https://www.bbassets.com/media/uploads/Green-home_icon.png",
+          "others": "https://www.bbassets.com/media/uploads/green-location.png"
+        }
+      },
+      "homepage_logo": "https://www.bbassets.com/media/uploads/theme_meats_logo.png",
+      "primary_color": "",
+      "secondary_color": "",
+      "subtext_eta_icon": "https://www.bbassets.com/media/uploads/BBNow_Green_ETA.png",
+      "bottombar_ec_icon": "https://www.bbassets.com/media/uploads/Meat_home_Selected.png",
+      "bottombar_bg_color": "#FFFFFF",
+      "navbar_title_color": "#363636",
+      "quick_filter_bg_color": "#F1F8E5",
+      "quick_filter_text_color": "#2F4A00",
+      "splash_animation_source": "",
+      "bottombar_switch_ec_icon": "https://www.bbassets.com/media/uploads/Meat_home_Unselected.png",
+      "ec_header_gradient_color": {
+        "end": [
+          0,
+          1
+        ],
+        "begin": [
+          0,
+          -1
+        ],
+        "colors": [
+          {
+            "color": "#F1F8E5",
+            "opacity": 1
+          },
+          {
+            "color": "#F1F8E5",
+            "opacity": 0
+          }
+        ]
+      },
+      "bottombar_highlight_color": "#5E9400",
+      "bottombar_switch_bg_color": "#FFFFFF",
+      "quick_filter_border_color": "#ADD566",
+      "order_tracking_route_color": "#5E9400",
+      "common_header_gradient_color": {
+        "end": [
+          0,
+          1
+        ],
+        "begin": [
+          0,
+          -1
+        ],
+        "colors": [
+          {
+            "color": "#F5F5F5",
+            "opacity": 1
+          },
+          {
+            "color": "#F5F5F5",
+            "opacity": 1
+          }
+        ]
+      },
+      "basket_message_success_bg_color": "#76B900",
+      "basket_message_warning_bg_color": "#E95963",
+      "order_tracking_progressbar_color": "#5E9400",
+      "basket_message_success_text_color": "#FFFFFF",
+      "basket_message_warning_text_color": "#FFFFFF",
+      "ec_other_pages_header_gradient_color": {
+        "end": [
+          0,
+          1
+        ],
+        "begin": [
+          0,
+          -1
+        ],
+        "colors": [
+          {
+            "color": "#F5F5F5",
+            "opacity": 1
+          },
+          {
+            "color": "#F5F5F5",
+            "opacity": 1
+          }
+        ]
+      }
+    },
+    "20": {
+      "ascent_color": "",
+      "basket_message_success_bg_color": "#76B900",
+      "basket_message_success_text_color": "#FFFFFF",
+      "basket_message_warning_bg_color": "#E95963",
+      "basket_message_warning_text_color": "#FFFFFF",
+      "bottombar_bg_color": "#FFFFFF",
+      "bottombar_ec_icon": "https://www.bbassets.com/media/uploads/bb_homeicon.png",
+      "bottombar_highlight_color": "#5E9400",
+      "bottombar_switch_bg_color": "#FFFFFF",
+      "bottombar_switch_ec_icon": "https://www.bbassets.com/media/uploads/bb_homeicon-unselected.png",
+      "common_header_gradient_color": {
+        "begin": [
+          0,
+          -1
+        ],
+        "colors": [
+          {
+            "color": "#F5F5F5",
+            "opacity": 1
+          },
+          {
+            "color": "#F5F5F5",
+            "opacity": 1
+          }
+        ],
+        "end": [
+          0,
+          1
+        ]
+      },
+      "cta_color": "#D63333",
+      "default_harmonix_header": {
+        "eta_description": "Delivers in",
+        "logo_alignment": "center",
+        "mode": "dark",
+        "overrides": {
+          "address-master.colour.icon.delivery.inverse": "#FFFFFF",
+          "address-master.colour.type.content-address.label-whole-address.inverse": "#FFFFFF",
+          "address-master.colour.type.content-delivery.label-delivery.inverse": "#FFFFFF",
+          "address-master.colour.type.content-delivery.label-non-interacive.inverse": "#FFFFFF",
+          "header.colour.surface.default": "#035155",
+          "header.colour.surface.enabled.default": "#035155",
+          "header.colour.surface.enabled.inverse": "#035155"
+        },
+        "theme": {}
+      },
+      "ec_header_gradient_color": {
+        "begin": [
+          0,
+          -1
+        ],
+        "colors": [
+          {
+            "color": "#F1F8E5",
+            "opacity": 1
+          },
+          {
+            "color": "#F1F8E5",
+            "opacity": 0
+          }
+        ],
+        "end": [
+          0,
+          1
+        ]
+      },
+      "ec_other_pages_header_gradient_color": {
+        "begin": [
+          0,
+          -1
+        ],
+        "colors": [
+          {
+            "color": "#F5F5F5",
+            "opacity": 1
+          },
+          {
+            "color": "#F5F5F5",
+            "opacity": 1
+          }
+        ],
+        "end": [
+          0,
+          1
+        ]
+      },
+      "header_images": {
+        "address_bg_color": "#EFF7E1",
+        "address_nickname_icon": {
+          "home": "https://www.bigbasket.com/media/uploads/green-home.png",
+          "office": "https://www.bigbasket.com/media/uploads/Green-home_icon.png",
+          "others": "https://www.bigbasket.com/media/uploads/green-location.png"
+        },
+        "nickname_text_colour": "#476F00",
+        "strip_color": "#C8E399"
+      },
+      "homepage_logo": "https://www.bigbasket.com/media/uploads/2025/4/25/DarkBack_1.png",
+      "navbar_title_color": "#363636",
+      "primary_color": "",
+      "quick_filter_bg_color": "#F1F8E5",
+      "quick_filter_border_color": "#ADD566",
+      "quick_filter_text_color": "#2F4A00",
+      "secondary_color": "",
+      "splash_animation_source": "",
+      "subtext": "Big Savings\nLow Prices",
+      "subtext_eta_icon": "https://bb-qamedia.s3.amazonaws.com/media/uploads/Icon.png",
+      "tab_info": [
+        {
+          "deeplink": "type=hp&slug=hp",
+          "icon_properties": {
+            "fallback_selected": "",
+            "fallback_unselected": "",
+            "icon_type": "harmonix",
+            "selected_state": "house-fill",
+            "unselected_state": "house-outline"
+          },
+          "page_type": "homePage",
+          "text": "Home"
+        },
+        {
+          "deeplink": "type=dy&slug=catnav",
+          "icon_properties": {
+            "fallback_selected": "",
+            "fallback_unselected": "",
+            "icon_type": "harmonix",
+            "selected_state": "squares-four-fill",
+            "unselected_state": "squares-four-outline"
+          },
+          "page_type": "dynamicPage",
+          "text": "Categories"
+        },
+        {
+          "deeplink": "type=dy&slug=type=mem.sb",
+          "icon_properties": {
+            "fallback_selected": "",
+            "fallback_unselected": "",
+            "icon_type": "harmonix",
+            "selected_state": "bb-reorder-outline",
+            "unselected_state": "bb-reorder-outline"
+          },
+          "page_type": "smartBasket",
+          "text": "Re-Order"
+        }
+      ]
+    },
+    "100": {
+      "ascent_color": "",
+      "basket_message_success_bg_color": "#76B900",
+      "basket_message_success_text_color": "#FFFFFF",
+      "basket_message_warning_bg_color": "#E95963",
+      "basket_message_warning_text_color": "#FFFFFF",
+      "bbnow_ad_hoc_closure_harmonix_header": {
+        "eta_description": "Delivers in",
+        "logo_alignment": "center",
+        "mode": "dark",
+        "overrides": {
+          "address-master.colour.icon.delivery.inverse": "#FFFFFF",
+          "address-master.colour.type.content-address.label-whole-address.inverse": "#FFFFFF",
+          "address-master.colour.type.content-delivery.label-delivery.inverse": "#FFFFFF",
+          "address-master.colour.type.content-delivery.label-non-interacive.inverse": "#FFFFFF",
+          "header.colour.surface.default": "#035155",
+          "header.colour.surface.enabled.default": "#035155",
+          "header.colour.surface.enabled.inverse": "#035155"
+        },
+        "theme": {}
+      },
+      "bbnow_operational_hours_closure_harmonix_header": {
+        "eta_description": "Delivers in",
+        "logo_alignment": "center",
+        "mode": "dark",
+        "overrides": {
+          "address-master.colour.icon.delivery.inverse": "#FFFFFF",
+          "address-master.colour.type.content-address.label-whole-address.inverse": "#FFFFFF",
+          "address-master.colour.type.content-delivery.label-delivery.inverse": "#FFFFFF",
+          "address-master.colour.type.content-delivery.label-non-interacive.inverse": "#FFFFFF",
+          "header.colour.surface.default": "#035155",
+          "header.colour.surface.enabled.default": "#035155",
+          "header.colour.surface.enabled.inverse": "#035155"
+        },
+        "theme": {}
+      },
+      "bottombar_bg_color": "#FFFFFF",
+      "bottombar_ec_icon": "https://www.bigbasket.com/media/uploads/bottomnav2.png",
+      "bottombar_highlight_color": "#5E9400",
+      "bottombar_switch_bg_color": "#FFFFFF",
+      "bottombar_switch_ec_icon": "https://www.bigbasket.com/media/uploads/Frame+629178.png",
+      "common_header_gradient_color": {
+        "begin": [
+          0,
+          -1
+        ],
+        "colors": [
+          {
+            "color": "#F5F5F5",
+            "opacity": 1
+          },
+          {
+            "color": "#F5F5F5",
+            "opacity": 1
+          }
+        ],
+        "end": [
+          0,
+          1
+        ]
+      },
+      "cta_color": "#D63333",
+      "default_harmonix_header": {
+        "eta_description": "Delivers in",
+        "logo_alignment": "center",
+        "mode": "dark",
+        "overrides": {
+          "address-master.colour.icon.delivery.inverse": "#FFFFFF",
+          "address-master.colour.type.content-address.label-whole-address.inverse": "#FFFFFF",
+          "address-master.colour.type.content-delivery.label-delivery.inverse": "#FFFFFF",
+          "address-master.colour.type.content-delivery.label-non-interacive.inverse": "#FFFFFF",
+          "header.colour.surface.default": "#035155",
+          "header.colour.surface.enabled.default": "#035155",
+          "header.colour.surface.enabled.inverse": "#035155"
+        },
+        "theme": {}
+      },
+      "ec_header_gradient_color": {
+        "begin": [
+          0,
+          -1
+        ],
+        "colors": [
+          {
+            "color": "#0358B8",
+            "opacity": 1
+          },
+          {
+            "color": "#0358B8",
+            "opacity": 1
+          }
+        ],
+        "end": [
+          0,
+          1
+        ]
+      },
+      "ec_other_pages_header_gradient_color": {
+        "begin": [
+          0,
+          -1
+        ],
+        "colors": [
+          {
+            "color": "#F5F5F5",
+            "opacity": 1
+          },
+          {
+            "color": "#F5F5F5",
+            "opacity": 1
+          }
+        ],
+        "end": [
+          0,
+          1
+        ]
+      },
+      "header_images": {
+        "address_bg_color": "#EFF7E1",
+        "address_nickname_icon": {
+          "home": "https://www.bigbasket.com/media/uploads/green-home.png",
+          "office": "https://www.bigbasket.com/media/uploads/Green-home_icon.png",
+          "others": "https://www.bigbasket.com/media/uploads/green-location.png"
+        },
+        "nickname_text_colour": "#476F00",
+        "strip_color": "#C8E399"
+      },
+      "header_type": "default",
+      "homepage_logo": "https://www.bigbasket.com/media/uploads/2025/4/25/DarkBack_1.png",
+      "navbar_title_color": "#363636",
+      "primary_color": "",
+      "quick_filter_bg_color": "#0358B8",
+      "quick_filter_border_color": "#ADD566",
+      "quick_filter_text_color": "#2F4A00",
+      "secondary_color": "",
+      "slotted_closure_harmonix_header": {
+        "eta_description": "Delivers in",
+        "logo_alignment": "center",
+        "mode": "dark",
+        "overrides": {
+          "address-master.colour.icon.delivery.inverse": "#FFFFFF",
+          "address-master.colour.type.content-address.label-whole-address.inverse": "#FFFFFF",
+          "address-master.colour.type.content-delivery.label-delivery.inverse": "#FFFFFF",
+          "address-master.colour.type.content-delivery.label-non-interacive.inverse": "#FFFFFF",
+          "header.colour.surface.default": "#035155",
+          "header.colour.surface.enabled.default": "#035155",
+          "header.colour.surface.enabled.inverse": "#035155"
+        },
+        "theme": {}
+      },
+      "splash_animation_source": "",
+      "subtext": "Big Savings \nLow Prices",
+      "subtext_eta_icon": "https://www.bigbasket.com/media/uploads/b2c-subtext_icon.png",
+      "tab_info": [
+        {
+          "deeplink": "type=hp&slug=hp",
+          "icon_properties": {
+            "fallback_selected": "",
+            "fallback_unselected": "",
+            "icon_type": "network",
+            "selected_state": "https://www.bbassets.com/media/uploads/home_selected_20251222.png",
+            "unselected_state": "https://www.bbassets.com/media/uploads/home_unselected_20251222.png"
+          },
+          "page_type": "homePage",
+          "text": "Home"
+        },
+        {
+          "deeplink": "type=dy&slug=catnav",
+          "icon_properties": {
+            "fallback_selected": "",
+            "fallback_unselected": "",
+            "icon_type": "network",
+            "selected_state": "https://www.bbassets.com/media/uploads/categories_selected_20251222.png",
+            "unselected_state": "https://www.bbassets.com/media/uploads/categories_unselected_20251222.png"
+          },
+          "page_type": "dynamicPage",
+          "text": "Categories"
+        },
+        {
+          "deeplink": "type=dy&slug=mem.sb",
+          "icon_properties": {
+            "fallback_selected": "",
+            "fallback_unselected": "",
+            "icon_type": "network",
+            "selected_state": "https://www.bbassets.com/media/uploads/2026/3/3/smartbasket_selected_20260303.png",
+            "unselected_state": "https://www.bbassets.com/media/uploads/2026/3/3/smartbasket_unselected_20260303.png"
+          },
+          "page_type": "smartBasket",
+          "text": "Order again"
+        }
+      ]
+    }
+  },
+  "tags": {},
+  "integrated_sa_config": {
+    "additional_integration_information": {
+      "associated_sa_list": [
+        19226,
+        19224
+      ],
+      "associated_ec_list": [
+        [
+          10,
+          100
+        ]
+      ],
+      "show_buttons": true,
+      "additional_configuration_map": {
+        "redirect_to_bbnow_sa": false,
+        "is_multi_shipment_enabled": false
+      },
+      "is_integrated_fc": true
+    },
+    "is_integrated_sa": true,
+    "is_multi_shipment_enabled": false
+  },
+  "default_door_ec": 10
+}

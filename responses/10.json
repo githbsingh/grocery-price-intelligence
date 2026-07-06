@@ -1,0 +1,6700 @@
+{
+  "AjaxWatches": [],
+  "BehaviorSignalSettings": {
+    "ElementBlocks": null
+  },
+  "Domains": {
+    "OnlyKnownDomains": false
+  },
+  "ElementBlocks": [
+    {
+      "Selector": "input[type=password]",
+      "Consent": false,
+      "Type": 1,
+      "GroupId": 0
+    },
+    {
+      "Selector": "input[type=hidden]",
+      "Consent": false,
+      "Type": 1,
+      "GroupId": 0
+    },
+    {
+      "Selector": "[autocomplete^=cc-]",
+      "Consent": false,
+      "Type": 1,
+      "GroupId": 0
+    },
+    {
+      "Selector": "body",
+      "Consent": false,
+      "Type": 3,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.passanger-info-guest-details-wrapper",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "#voucher_value",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "input[type=\"text\"][placeholder=\"Enter Your UPI id\"]",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "#mobileNumber",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.PdpPincode__pinCodeAndButtonHolder",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div div.passanger-info-guest-details-wrapper",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div#spa-root div.App div div.aem-page.basicpage.page div div.aem-Grid.aem-Grid--12.aem-Grid--default--12.aem-container div.aem-GridColumn.aem-GridColumn--default--12 div.aem-Grid.aem-Grid--12.aem-Grid--default--12.aem-container div.aem-GridColumn.aem-GridColumn--default--12 div div.b2c-passanger-info-wrapper div.content-tab div div div.passanger-info-guest-details-wrapper",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "#phone-number-form",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.credit-card",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div#spa-root div.App div div.basicpage.page div div div div div div div div.content-tab div div div.passanger-info-guest-details-wrapper",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.PdpPincode__pincodeListDropDown",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "#emailAddress",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "#otp-box",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "span.modal-sent-to-phone",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.container.set-new-password-screen div.component-container",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "#user-detail",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.booking-input-fields-container",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.credit-card-payment-wrp div.mr-sub-form-row",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.TextWithUnderLine__base div.TextWithUnderLine__pincodeBox",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.guest-details-con",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "input.mobile-input-box[type=\"text\"][placeholder=\"Enter Mobile Number/Email\"]",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.AddDeliveryAddress__content",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div input[data-testid=\"phone-number-input\"]",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.DeliveryAddressCart__titleDescription",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "#card-number",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "#card-expiry",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "#card-cvv",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.DeliveryAddressSet__base div span",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.address-head.billing-address-head",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.delivery-address.oc-address-details",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "main#container div.mainContainer div div div.container div div.card-info div.order-msg.order-msg-mobile p",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "#card-name",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div#spa-root div.App div div.basicpage.page div div div div div div.RetreiveItinerary div.content div.get-itinerary-form div.left div.input-field input[name=\"addtnlDetail\"][type=\"text\"]",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div#spa-root div.App div div.aem-page.basicpage.page div div.aem-Grid.aem-Grid--12.aem-Grid--default--12.aem-container div.aem-GridColumn.aem-GridColumn--default--12 div.aem-Grid.aem-Grid--12.aem-Grid--default--12.aem-container div.aem-GridColumn.aem-GridColumn--default--12 div.RetreiveItinerary div.content div.get-itinerary-form div.disabled-section.right div.input-field input[type=\"text\"][name=\"lastName\"][tabindex=\"-1\"][maxlength=\"32\"][autocomplete=\"off\"][required=\"\"][value=\"\"]",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.guest-name span.name",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.row div.col-lg-6 input.email-input[name=\"userEmailForShare\"][type=\"text\"]",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "#otpEmail",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "main#container div.mainContainer div[data-testid=\"myProfile\"] div div.container div",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "main#container div.mainContainer div div.first div.container div ul.address-list[data-testid=\"myAddress\"] li.address-item div.address-card div.address-card-height.address-head",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "ul[qa=\"deliveryAddressODETAIL\"] li",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.uiv2-address-box-full",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "input.AUxTW.sc-bZQynM[type=\"email\"][name=\"mobemail\"][value=\"\"]",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div#modal-root div div.ModalPanel__base div.BottomSlideModal__base div.BottomSlideModal__content div.AddressModal__base div.AddressModal__searchHolder div.SearchAndUpdate__base div.SearchAndUpdate__inputSearchHolder div.SearchAndUpdate__inputHolder div.Input2__base[data-test=\"control-input-field-main-div\"] div.Input2__container.Input2__wrapper div.Input2__base.Input2__box",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div#root div.ljLdSe.sc-bwzfXH[height=\"100%\"] div.jPktUY.sc-bdVaJa div.gbgGDb.sc-bwzfXH div.khStcN.sc-bdVaJa[width=\"90%\"] div.byfYSf.sc-bdVaJa[height=\"50\"] input.AUxTW.sc-bZQynM[name=\"contact\"][type=\"number\"][value=\"\"]",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.MyAccountDesktop__userProfile",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div#email-address-list",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.uiv2-user-details",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div._1TP1i[qa=\"allAddressContainer\"]",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.ng-binding[ng-show=\"!$ctrl.isEditIdentifier\"]",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.undefined input.false[name=\"email\"][type=\"text\"]",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "#new-email-id",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.delivery-address span",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "#mobile",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.KycApplicationForm__inputHolder",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.address-head",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.form-group input.formControl[type=\"text\"][name=\"pin\"][placeholder=\"Enter pincode\"][autocomplete=\"off\"][value=\"\"]",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.add-address-box-title",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "main#container div.mainContainer div div.first.show-sec div.container div.sec-cont div ul.checkout-list form div li.checkout-item",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.cp-box.field-disabled.shipBillAddressLoader",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.shipping-add-edit-dialog",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "input.formControl[type=\"text\"][placeholder=\"Enter Email ID\"]",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.shipping-dialog",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.CreditCardForm__contentHolder",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.UpiForm__frmFeildRow div[data-test]",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.GiftCardPopup__inputHolder div[data-test=\"control-input-field-main-div\"]",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.EditAccountDetails__inputHolder",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "#cardNo",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "#cardPin",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "input.cart-coupon-input-box.offerinput[name=\"coupoun\"][type=\"text\"]",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div[name=\"firstName\"][type=\"text\"]",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div[name=\"mobileNumber\"][type=\"number\"]",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "span.uiv2-mar-top-10.uiv2-profile-username",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.CliqCashModule__cardNumber div[data-test]",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.CashBackDetailsPopup__content",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "main#container div.mainContainer div[data-testid=\"editAddress\"] div div.container div div.form-list form ul.list li.item",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.pincode-list.swiper-container.swiper-container-horizontal.swiper-container-initialized",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.address",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "input.formControl[name=\"emailId\"][type=\"email\"]",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "input.formControl[name=\"mobileNo\"][type=\"tel\"]",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "main#container div.mainContainer div[data-testid=\"myAddressData\"] div div.container div div.form-list form ul.list li.item",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "main#container div.mainContainer div div div.container div ul.order-list li.order-list-item div[data-testid=\"myAddressData\"] div div.container div.sec-cont div div.content-wrap.wrapper-space div.formShadow form div.form-list ul.list li.item",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "decorview",
+      "Consent": false,
+      "Type": 3,
+      "GroupId": 0
+    },
+    {
+      "Selector": "root",
+      "Consent": false,
+      "Type": 3,
+      "GroupId": 0
+    },
+    {
+      "Selector": "uiwindow",
+      "Consent": false,
+      "Type": 3,
+      "GroupId": 0
+    },
+    {
+      "Selector": "input.mobile[type=\"text\"]",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.left span.bold.pincode",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.address-container",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.CliqGiftCardBuySend__buyGiftCardEmailField div[data-test]",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.SavedPaymentCard__dataHolder",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "span.OtherCuponDetails__cuponCodeColor",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "span.CuponDetails__cuponCodeColor",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.AddressBook__addressHolder",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.DeliveryAddressCart__titleContact",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.mobile-container",
+      "Consent": false,
+      "Type": 1,
+      "GroupId": 0
+    },
+    {
+      "Selector": "#location",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "#flat-no",
+      "Consent": false,
+      "Type": 1,
+      "GroupId": 0
+    },
+    {
+      "Selector": "#landmark",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "h2.name-label",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "#address-type",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "#my-addresses",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.date-picker",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "#firstName",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "#lastName",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div#spa-root div div div.basicpage.page div div div div div div div div div[data-testid=\"primaryEmailId\"] div input#primaryEmailId[name=\"primaryEmailId\"][type=\"text\"]",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "_uitextfieldcanvasview",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "[nib_name=\"EnterPhoneNumberViewController\"]>uiscrollview>uiview>uiview>uiview>uiview",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "[controller=\"TCPApp.SavedAddressesViewController\"]>uitableview>tcpapp\\.addressestableviewcell#tcpApp\\.address\\.tableviewCell[focusable=\"true\"]>uitableviewcellcontentview>uiview>uistackview>uilabel#tcpApp\\.address\\.subtitle",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "uitableviewcellcontentview>gmsmapview>gmsvectormapview",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "tcpuikit\\.materialtextfieldview>uitextfield>_uitextfieldcanvasview",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "uiapplication>uiwindow>uitransitionview>uidropshadowview>uilayoutcontainerview[controller=\"TCPApp.TcpTabBarController\"]>uitransitionview>uiviewcontrollerwrapperview>uilayoutcontainerview[controller=\"UINavigationController\"]>uinavigationtransitionview>uiviewcontrollerwrapperview>uiview[controller=\"TCPApp.OrderDetailDefaultController\"][nib_name=\"OrderDetailDefaultController\"]>uiview>uistackview>uistackview>uistackview>uilabel",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "uiview>tcpuikit\\.materialtextfield>uilabel",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "uistackview>tcpuikit\\.materialtextfieldview>uilabel",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "uiview[controller=\"TCPApp.AddCardPageViewController\"][nib_name=\"AddCardPageViewController\"]>uiview>cagradientlayer",
+      "Consent": false,
+      "Type": 1,
+      "GroupId": 0
+    },
+    {
+      "Selector": "#tcpApp\\.bundleDetailViewController\\.addressButton>uibuttonlabel",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "uiapplication>uiwindow>uitransitionview>uidropshadowview>uilayoutcontainerview[controller=\"TCPApp.TcpTabBarController\"]>uitransitionview>uiviewcontrollerwrapperview>uilayoutcontainerview[controller=\"UINavigationController\"]>uinavigationtransitionview>uiviewcontrollerwrapperview>uiview[controller=\"TCPApp.NetBankingViewController\"][nib_name=\"NetBankingViewController\"]>uiview>uitableview>tcpapp\\.banklistcell[focusable=\"true\"]>uitableviewcellcontentview>uiview>uilabel",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "#TCPApp\\.OfferDescriptionTableViewCell\\.couponCodeTitleLabel",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.row.style__address-details___2-ik7",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.AddressFill__form___l1Mh6",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.AddressCard__card___2btE8",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "#phoneNumber",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.AddressCard__card___22M_q",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "input.style__payerVpa___2x3u3[placeholder=\"Ex: mobilenumber@upi\"]",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "input.bold.fname.input[type=\"text\"]",
+      "Consent": false,
+      "Type": 3,
+      "GroupId": 0
+    },
+    {
+      "Selector": "input.bold.input.lname[type=\"text\"][disabled=\"\"]",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "input.bold.dob.input[type=\"text\"][disabled=\"\"]",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "input.bold.input.phone[type=\"text\"]",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "input.bold.email.input[type=\"text\"]",
+      "Consent": false,
+      "Type": 3,
+      "GroupId": 0
+    },
+    {
+      "Selector": "input.fotNewLetInput[type=\"text\"]",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.pdpNwDlMdPinCol div.quqPqPinActnCol div input.formControl[type=\"text\"]",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.box_container div div div.col_grow div",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.content div#app.wrap-inner div.modalOpen div.popOverlay div.modalDialogOuter div.modalDialog.modalLogin div.modalInnerBox div.modalOuter.open div.modalContainer div.modalContainerBox.show div.loginNwPopBox div.loginPopInner div div.countryCode.frmFeildSec input.frmControl",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.modalInnerBox div.modalOuter.open div.modalContainer div.modalContainerBox.show div.loginNwPopBox div.loginPopInner div div.frmFeildSec input.frmControl[type=\"text\"]",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.profEditInfoCol",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.flexBotRow div div input.formContrlSm.formControl",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.dateFormFeild.flxDateRow",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div div.chkOutSavedAddrTxt address",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.editAddresBox div.editAddressForm div.formGroup",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "li.ordDtlsListItem div div div div.formGroup.formGroupLogin input.formControl",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "li.ordDtlsListItem div textarea.formControl.txtArea",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.cardDtlsSec div.cardDtlsBlock div.formGroup",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.upi-form-sec div.flexBotRow div div div.formGroup.formGroupLogin input.formContrlSm.formControl[type=\"text\"]",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.clChDtlsPopUpBox div.clChDtlsFormSec div.formGroup",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.content div#app.wrap-inner div.modalOpen div.contentSec div div div.profEditfSec div.profEditRow div.profEditInfoCol div.prfEdtPlceHold img",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.checkSvdSard.paySvdCrdBox.svdCrdBox div.svdCardDtlsInner div.svdCardDtlsRow div.svdCardDtlsCols",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.emptCrtNewContnt div.empCrtInfoSec h4",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.content div#app.wrap-inner div.modalOpen div.popOverlayLgt div.modalDialogOuter div div div input[type=\"text\"]",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.upi-saved-list-box div.upi-saved-item div.upi-saved-box",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.AddressItem__address",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.DesktopHeader__nameAndContact",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "tcpuikit\\.avatarview",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "#emailId",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "#user_email",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "#pinCode",
+      "Consent": false,
+      "Type": 1,
+      "GroupId": 0
+    },
+    {
+      "Selector": "#dob",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "#flatNo",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "#pincode",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "#phone",
+      "Consent": false,
+      "Type": 1,
+      "GroupId": 0
+    },
+    {
+      "Selector": "#email",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "#cardAlias",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "#billpay-customer-number-input-0",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "#password",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "#confirmPassword",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "#middleName",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "#tcpApp\\.AccountList\\.userName",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "_uitextlayoutfragmentview",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.first-name-field.form-group input.form-control[type=\"text\"]",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.form-group.last-name-field input.form-control[type=\"text\"]",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.mobileno input.form-control[type=\"tel\"]",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.email-field.form-group input.form-control[type=\"email\"]",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.form-group.more-connection-pincode.pincode-field input.form-control[type=\"tel\"]",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "form.address-form",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.MuiDialog-root[role=\"presentation\"] div.MuiDialog-container.MuiDialog-scrollPaper[role=\"none presentation\"] div.MuiDialog-paper.MuiDialog-paperScrollPaper.MuiDialog-paperWidthSm.MuiPaper-root.MuiPaper-rounded[role=\"dialog\"] div.MuiDialogContent-root div.card div small.card-subtitle a strong",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "main#container div.mainContainer div div.first.show-sec div.container div.sec-cont div ul.checkout-list form li.checkout-item div div.form-list form ul.list li.item div.MuiSnackbar-anchorOriginBottomCenter.MuiSnackbar-root div.MuiAlert-filledError.MuiAlert-root.MuiPaper-root[role=\"alert\"]",
+      "Consent": false,
+      "Type": 3,
+      "GroupId": 0
+    },
+    {
+      "Selector": "#sm-guestname",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "#sm-guestphone",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.checkout-confirmation-layout.taj div main main.confirmation-main div.confiramtion-wrap.container.content-wrapper div.responsivegrid.root div div.bookHotelConfirmation div div.itinerary-confirm div div.confirmation-con div.confirmation-header div.confirmation-text-con div.text-con div.confirmation-text div#thank-you span#name",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "#insurance\\.selectaddress\\.address_label",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "#TCPApp\\.CardOfferCollectionViewCell\\.offerTitleLabel",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "tcpapp\\.upipendingmandatetableviewcell>uitableviewcellcontentview>uiview",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "uiapplication>uiwindow>uitransitionview>uiview[controller=\"TCPUIKit.PickerViewController\"]>uitableview>tcpuikit\\.pickerviewcontrollercell[focusable=\"true\"]>uitableviewcellcontentview>uilabel",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "uiapplication>uiwindow>uitransitionview>uiview[controller=\"TCPUIKit.DatePickerViewController\"]>uiview>uidatepicker>_uidatepickerview>uiview>cagradientlayer",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "#nav-myprofile",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.personalDetails-tab",
+      "Consent": false,
+      "Type": 1,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.contactDetails-tab",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.emergencyContacts-tab",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.documents-tab",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "#insurance\\.findAddress\\.findAddresstitle",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "#insurance\\.findAddress\\.findAddressDescription",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.checkoutLoader",
+      "Consent": false,
+      "Type": 1,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.cp-box.shipBillAddressLoader",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.cp-pincode",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "div.header-store-enquiry",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "span.pincode",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "uiapplication>uiwindow>uitransitionview>uidropshadowview>uilayoutcontainerview[controller=\"TCPApp.TcpTabBarController\"]>uitransitionview>uiviewcontrollerwrapperview>uilayoutcontainerview[controller=\"UINavigationController\"]>uinavigationtransitionview>uiviewcontrollerwrapperview>uiview[controller=\"TCPSearchKit.SearchViewController\"][nib_name=\"SearchViewController\"]>uistackview>uiview>uiview",
+      "Consent": false,
+      "Type": 3,
+      "GroupId": 0
+    },
+    {
+      "Selector": "#edtPrimaryEmailId",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "#edtPhoneNumber",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "#txtAddress",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "framelayout#flHomeFragmentContainer>flutterview>fluttersurfaceview",
+      "Consent": false,
+      "Type": 3,
+      "GroupId": 0
+    },
+    {
+      "Selector": "#defaultWebView",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "#edtEmail",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "#etCardNumber",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "#etExpMonth",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "#ivLoader",
+      "Consent": false,
+      "Type": 3,
+      "GroupId": 0
+    },
+    {
+      "Selector": "fluttersurfaceview",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "flutterview>fluttersurfaceview",
+      "Consent": false,
+      "Type": 3,
+      "GroupId": 0
+    },
+    {
+      "Selector": "framelayout#flHomeFragmentContainer>flutterview[tag=\"NeuFlutterFragment\"]>fluttersurfaceview[tag=\"NeuFlutterFragment\"]",
+      "Consent": false,
+      "Type": 3,
+      "GroupId": 0
+    },
+    {
+      "Selector": "uilayoutcontainerview[controller=\"TCPApp.TcpTabBarController\"]>uivisualeffectview[tag=\"101\"]>_uivisualeffectsubview",
+      "Consent": false,
+      "Type": 3,
+      "GroupId": 0
+    },
+    {
+      "Selector": "_uivisualeffectsubview",
+      "Consent": false,
+      "Type": 3,
+      "GroupId": 0
+    },
+    {
+      "Selector": "uiapplication>uiwindow>uiview[tag=\"100\"]",
+      "Consent": false,
+      "Type": 3,
+      "GroupId": 0
+    },
+    {
+      "Selector": "uinavigationtransitionview>uiviewcontrollerwrapperview>flutterview[controller=\"TCPApp.NeuFlutterViewController\"]",
+      "Consent": false,
+      "Type": 3,
+      "GroupId": 0
+    },
+    {
+      "Selector": "#appCompatImageView",
+      "Consent": false,
+      "Type": 3,
+      "GroupId": 0
+    },
+    {
+      "Selector": "#splashMainLayout",
+      "Consent": false,
+      "Type": 3,
+      "GroupId": 0
+    },
+    {
+      "Selector": "#action_button_okay",
+      "Consent": false,
+      "Type": 3,
+      "GroupId": 0
+    },
+    {
+      "Selector": "uitransitionview>uiview[controller=\"TCPUIKit.TCPAlertViewController\"][nib_name=\"TCPAlertViewController\"]>uiview",
+      "Consent": false,
+      "Type": 3,
+      "GroupId": 0
+    },
+    {
+      "Selector": "uistackview>uiview>uiimageview",
+      "Consent": false,
+      "Type": 1,
+      "GroupId": 0
+    },
+    {
+      "Selector": "uiapplication>uiwindow>uitransitionview>uidropshadowview>uilayoutcontainerview[controller=\"UINavigationController\"]>uinavigationtransitionview>uiviewcontrollerwrapperview>uiview[controller=\"TCPApp.EnterPhoneNumberViewController\"][nib_name=\"EnterPhoneNumberViewController\"]>uiscrollview>uiview>uistackview>uiview>uilabel",
+      "Consent": false,
+      "Type": 1,
+      "GroupId": 0
+    },
+    {
+      "Selector": "uibutton",
+      "Consent": false,
+      "Type": 1,
+      "GroupId": 0
+    },
+    {
+      "Selector": "#clRootView>cardview[tag=\"AppUpdateDialogFragment\"]",
+      "Consent": false,
+      "Type": 3,
+      "GroupId": 0
+    },
+    {
+      "Selector": "#copyrightYearTextView",
+      "Consent": false,
+      "Type": 1,
+      "GroupId": 0
+    },
+    {
+      "Selector": "#btnUpdateNow",
+      "Consent": false,
+      "Type": 3,
+      "GroupId": 0
+    },
+    {
+      "Selector": "#tvMsg",
+      "Consent": false,
+      "Type": 3,
+      "GroupId": 0
+    },
+    {
+      "Selector": "#custom_toast_container>constraintlayout",
+      "Consent": false,
+      "Type": 1,
+      "GroupId": 0
+    },
+    {
+      "Selector": "#tvToastMsg",
+      "Consent": false,
+      "Type": 3,
+      "GroupId": 0
+    },
+    {
+      "Selector": "tcpuikit\\.tcpbutton",
+      "Consent": false,
+      "Type": 3,
+      "GroupId": 0
+    },
+    {
+      "Selector": "cardview[tag=\"AppUpdateDialogFragment\"]",
+      "Consent": false,
+      "Type": 3,
+      "GroupId": 0
+    },
+    {
+      "Selector": "#tvExitApp",
+      "Consent": false,
+      "Type": 3,
+      "GroupId": 0
+    },
+    {
+      "Selector": "#ivAppIcon",
+      "Consent": false,
+      "Type": 3,
+      "GroupId": 0
+    },
+    {
+      "Selector": "flutterview[controller=\"TCPApp.NeuFlutterViewController\"]",
+      "Consent": false,
+      "Type": 3,
+      "GroupId": 0
+    },
+    {
+      "Selector": "flutterview",
+      "Consent": false,
+      "Type": 3,
+      "GroupId": 0
+    },
+    {
+      "Selector": "uitabbar",
+      "Consent": false,
+      "Type": 3,
+      "GroupId": 0
+    },
+    {
+      "Selector": "#tcpApp\\.AccountList\\.sectionTitle",
+      "Consent": false,
+      "Type": 3,
+      "GroupId": 0
+    },
+    {
+      "Selector": "uiapplication>uiwindow>uitransitionview>uidropshadowview>uilayoutcontainerview[controller=\"TCPApp.TcpTabBarController\"]>uitransitionview>uiviewcontrollerwrapperview>uilayoutcontainerview[controller=\"UINavigationController\"]>uinavigationtransitionview>uiviewcontrollerwrapperview>uiview[storyboard=\"Orderdetails\"][nib_name=\"H3W-Bc-GA4-view-dfi-IF-G7S\"][controller=\"TCPPaymentsKit.OrderDetailsViewController\"]>uitableview>tcppaymentskit\\.poweredbytableviewcell[focusable=\"true\"]",
+      "Consent": false,
+      "Type": 3,
+      "GroupId": 0
+    },
+    {
+      "Selector": "uidropshadowview>uilayoutcontainerview[controller=\"TCPApp.TcpTabBarController\"]>uitabbar",
+      "Consent": false,
+      "Type": 3,
+      "GroupId": 0
+    },
+    {
+      "Selector": "uiapplication>uiwindow>uitransitionview>uidropshadowview>uilayoutcontainerview[controller=\"TCPApp.TcpTabBarController\"]>uitabbar>uitabbarbutton>uitabbarswappableimageview",
+      "Consent": false,
+      "Type": 3,
+      "GroupId": 0
+    },
+    {
+      "Selector": "uiapplication>uiwindow>uitransitionview>uidropshadowview>uilayoutcontainerview[controller=\"TCPApp.TcpTabBarController\"]>uitabbar>uitabbarbutton>uitabbarbuttonlabel",
+      "Consent": false,
+      "Type": 3,
+      "GroupId": 0
+    },
+    {
+      "Selector": "uitableviewcellcontentview>uiview>uistackview>uilabel",
+      "Consent": false,
+      "Type": 3,
+      "GroupId": 0
+    },
+    {
+      "Selector": "uiapplication>uiwindow>uitransitionview>uidropshadowview>uilayoutcontainerview[controller=\"TCPApp.TcpTabBarController\"]>uivisualeffectview[tag=\"101\"]>_uivisualeffectsubview",
+      "Consent": false,
+      "Type": 3,
+      "GroupId": 0
+    },
+    {
+      "Selector": "uiviewcontrollerwrapperview>flutterview[controller=\"TCPApp.NeuFlutterViewController\"]",
+      "Consent": false,
+      "Type": 3,
+      "GroupId": 0
+    },
+    {
+      "Selector": "uinavigationtransitionview uiviewcontrollerwrapperview flutterview[controller=\"TCPApp.NeuFlutterViewController\"]",
+      "Consent": false,
+      "Type": 3,
+      "GroupId": 0
+    },
+    {
+      "Selector": ".NeuFlutterViewController",
+      "Consent": false,
+      "Type": 3,
+      "GroupId": 0
+    },
+    {
+      "Selector": "tcpapp.NeuFlutterViewController",
+      "Consent": false,
+      "Type": 3,
+      "GroupId": 0
+    },
+    {
+      "Selector": "uiapplication>uiwindow>uitransitionview>uidropshadowview>uilayoutcontainerview[controller=\"TCPApp.TcpTabBarController\"]>uitransitionview>uiviewcontrollerwrapperview>uilayoutcontainerview[controller=\"UINavigationController\"]>uinavigationtransitionview>uiviewcontrollerwrapperview>flutterview[controller=\"TCPApp.NeuFlutterViewController\"]",
+      "Consent": false,
+      "Type": 3,
+      "GroupId": 0
+    },
+    {
+      "Selector": "#carousal_image",
+      "Consent": false,
+      "Type": 3,
+      "GroupId": 0
+    },
+    {
+      "Selector": "uicollectionview>tcpapp\\.fslmoneysubcardcell[focusable=\"true\"]>cagradientlayer",
+      "Consent": false,
+      "Type": 3,
+      "GroupId": 0
+    },
+    {
+      "Selector": ".fs-exclude",
+      "Consent": false,
+      "Type": 1,
+      "GroupId": 0
+    },
+    {
+      "Selector": ".fs-exclude-without-consent",
+      "Consent": true,
+      "Type": 1,
+      "GroupId": 0
+    },
+    {
+      "Selector": ".fs-mask",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": ".fs-mask-without-consent",
+      "Consent": true,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": ".fs-unmask",
+      "Consent": false,
+      "Type": 3,
+      "GroupId": 0
+    },
+    {
+      "Selector": ".fs-unmask-with-consent",
+      "Consent": true,
+      "Type": 3,
+      "GroupId": 0
+    },
+    {
+      "Selector": ".fs-hide",
+      "Consent": false,
+      "Type": 1,
+      "GroupId": 0
+    },
+    {
+      "Selector": ".fs-block",
+      "Consent": false,
+      "Type": 1,
+      "GroupId": 0
+    },
+    {
+      "Selector": ".fs-record-with-consent",
+      "Consent": true,
+      "Type": 1,
+      "GroupId": 0
+    },
+    {
+      "Selector": "html",
+      "Consent": false,
+      "Type": 2,
+      "GroupId": 0
+    },
+    {
+      "Selector": "link",
+      "Consent": false,
+      "Type": 3,
+      "GroupId": 0
+    },
+    {
+      "Selector": "style",
+      "Consent": false,
+      "Type": 3,
+      "GroupId": 0
+    },
+    {
+      "Selector": "base",
+      "Consent": false,
+      "Type": 3,
+      "GroupId": 0
+    }
+  ],
+  "NamedElementBlocks": [
+    {
+      "Name": "input[type=password]",
+      "Consent": false,
+      "BlockType": 1,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "input[type=password]",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "input[type=hidden]",
+      "Consent": false,
+      "BlockType": 1,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "input[type=hidden]",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "[autocomplete^=cc-]",
+      "Consent": false,
+      "BlockType": 1,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "[autocomplete^=cc-]",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "body",
+      "Consent": false,
+      "BlockType": 3,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "body",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.passanger-info-guest-details-wrapper",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.passanger-info-guest-details-wrapper",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "#voucher_value",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "#voucher_value",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "input[type=\"text\"][placeholder=\"Enter Your UPI id\"]",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "input[type=\"text\"][placeholder=\"Enter Your UPI id\"]",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "#mobileNumber",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "#mobileNumber",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.PdpPincode__pinCodeAndButtonHolder",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.PdpPincode__pinCodeAndButtonHolder",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div div.passanger-info-guest-details-wrapper",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div div.passanger-info-guest-details-wrapper",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div#spa-root div.App div div.aem-page.basicpage.page div div.aem-Grid.aem-Grid--12.aem-Grid--default--12.aem-container div.aem-GridColumn.aem-GridColumn--default--12 div.aem-Grid.aem-Grid--12.aem-Grid--default--12.aem-container div.aem-GridColumn.aem-GridColumn--default--12 div div.b2c-passanger-info-wrapper div.content-tab div div div.passanger-info-guest-details-wrapper",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div#spa-root div.App div div.aem-page.basicpage.page div div.aem-Grid.aem-Grid--12.aem-Grid--default--12.aem-container div.aem-GridColumn.aem-GridColumn--default--12 div.aem-Grid.aem-Grid--12.aem-Grid--default--12.aem-container div.aem-GridColumn.aem-GridColumn--default--12 div div.b2c-passanger-info-wrapper div.content-tab div div div.passanger-info-guest-details-wrapper",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "#phone-number-form",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "#phone-number-form",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.credit-card",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.credit-card",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div#spa-root div.App div div.basicpage.page div div div div div div div div.content-tab div div div.passanger-info-guest-details-wrapper",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div#spa-root div.App div div.basicpage.page div div div div div div div div.content-tab div div div.passanger-info-guest-details-wrapper",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.PdpPincode__pincodeListDropDown",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.PdpPincode__pincodeListDropDown",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "#emailAddress",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "#emailAddress",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "#otp-box",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "#otp-box",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "span.modal-sent-to-phone",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "span.modal-sent-to-phone",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.container.set-new-password-screen div.component-container",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.container.set-new-password-screen div.component-container",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "#user-detail",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "#user-detail",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.booking-input-fields-container",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.booking-input-fields-container",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.credit-card-payment-wrp div.mr-sub-form-row",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.credit-card-payment-wrp div.mr-sub-form-row",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.TextWithUnderLine__base div.TextWithUnderLine__pincodeBox",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.TextWithUnderLine__base div.TextWithUnderLine__pincodeBox",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.guest-details-con",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.guest-details-con",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "input.mobile-input-box[type=\"text\"][placeholder=\"Enter Mobile Number/Email\"]",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "input.mobile-input-box[type=\"text\"][placeholder=\"Enter Mobile Number/Email\"]",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.AddDeliveryAddress__content",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.AddDeliveryAddress__content",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div input[data-testid=\"phone-number-input\"]",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div input[data-testid=\"phone-number-input\"]",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.DeliveryAddressCart__titleDescription",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.DeliveryAddressCart__titleDescription",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "#card-number",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "#card-number",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "#card-expiry",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "#card-expiry",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "#card-cvv",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "#card-cvv",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.DeliveryAddressSet__base div span",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.DeliveryAddressSet__base div span",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.address-head.billing-address-head",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.address-head.billing-address-head",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.delivery-address.oc-address-details",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.delivery-address.oc-address-details",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "main#container div.mainContainer div div div.container div div.card-info div.order-msg.order-msg-mobile p",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "main#container div.mainContainer div div div.container div div.card-info div.order-msg.order-msg-mobile p",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "#card-name",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "#card-name",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div#spa-root div.App div div.basicpage.page div div div div div div.RetreiveItinerary div.content div.get-itinerary-form div.left div.input-field input[name=\"addtnlDetail\"][type=\"text\"]",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div#spa-root div.App div div.basicpage.page div div div div div div.RetreiveItinerary div.content div.get-itinerary-form div.left div.input-field input[name=\"addtnlDetail\"][type=\"text\"]",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div#spa-root div.App div div.aem-page.basicpage.page div div.aem-Grid.aem-Grid--12.aem-Grid--default--12.aem-container div.aem-GridColumn.aem-GridColumn--default--12 div.aem-Grid.aem-Grid--12.aem-Grid--default--12.aem-container div.aem-GridColumn.aem-GridColumn--default--12 div.RetreiveItinerary div.content div.get-itinerary-form div.disabled-section.right div.input-field input[type=\"text\"][name=\"lastName\"][tabindex=\"-1\"][maxlength=\"32\"][autocomplete=\"off\"][required=\"\"][value=\"\"]",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div#spa-root div.App div div.aem-page.basicpage.page div div.aem-Grid.aem-Grid--12.aem-Grid--default--12.aem-container div.aem-GridColumn.aem-GridColumn--default--12 div.aem-Grid.aem-Grid--12.aem-Grid--default--12.aem-container div.aem-GridColumn.aem-GridColumn--default--12 div.RetreiveItinerary div.content div.get-itinerary-form div.disabled-section.right div.input-field input[type=\"text\"][name=\"lastName\"][tabindex=\"-1\"][maxlength=\"32\"][autocomplete=\"off\"][required=\"\"][value=\"\"]",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.guest-name span.name",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.guest-name span.name",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.row div.col-lg-6 input.email-input[name=\"userEmailForShare\"][type=\"text\"]",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.row div.col-lg-6 input.email-input[name=\"userEmailForShare\"][type=\"text\"]",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "#otpEmail",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "#otpEmail",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "main#container div.mainContainer div[data-testid=\"myProfile\"] div div.container div",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "main#container div.mainContainer div[data-testid=\"myProfile\"] div div.container div",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "main#container div.mainContainer div div.first div.container div ul.address-list[data-testid=\"myAddress\"] li.address-item div.address-card div.address-card-height.address-head",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "main#container div.mainContainer div div.first div.container div ul.address-list[data-testid=\"myAddress\"] li.address-item div.address-card div.address-card-height.address-head",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "ul[qa=\"deliveryAddressODETAIL\"] li",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "ul[qa=\"deliveryAddressODETAIL\"] li",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.uiv2-address-box-full",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.uiv2-address-box-full",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "input.AUxTW.sc-bZQynM[type=\"email\"][name=\"mobemail\"][value=\"\"]",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "input.AUxTW.sc-bZQynM[type=\"email\"][name=\"mobemail\"][value=\"\"]",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div#modal-root div div.ModalPanel__base div.BottomSlideModal__base div.BottomSlideModal__content div.AddressModal__base div.AddressModal__searchHolder div.SearchAndUpdate__base div.SearchAndUpdate__inputSearchHolder div.SearchAndUpdate__inputHolder div.Input2__base[data-test=\"control-input-field-main-div\"] div.Input2__container.Input2__wrapper div.Input2__base.Input2__box",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div#modal-root div div.ModalPanel__base div.BottomSlideModal__base div.BottomSlideModal__content div.AddressModal__base div.AddressModal__searchHolder div.SearchAndUpdate__base div.SearchAndUpdate__inputSearchHolder div.SearchAndUpdate__inputHolder div.Input2__base[data-test=\"control-input-field-main-div\"] div.Input2__container.Input2__wrapper div.Input2__base.Input2__box",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div#root div.ljLdSe.sc-bwzfXH[height=\"100%\"] div.jPktUY.sc-bdVaJa div.gbgGDb.sc-bwzfXH div.khStcN.sc-bdVaJa[width=\"90%\"] div.byfYSf.sc-bdVaJa[height=\"50\"] input.AUxTW.sc-bZQynM[name=\"contact\"][type=\"number\"][value=\"\"]",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div#root div.ljLdSe.sc-bwzfXH[height=\"100%\"] div.jPktUY.sc-bdVaJa div.gbgGDb.sc-bwzfXH div.khStcN.sc-bdVaJa[width=\"90%\"] div.byfYSf.sc-bdVaJa[height=\"50\"] input.AUxTW.sc-bZQynM[name=\"contact\"][type=\"number\"][value=\"\"]",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.MyAccountDesktop__userProfile",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.MyAccountDesktop__userProfile",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div#email-address-list",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div#email-address-list",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.uiv2-user-details",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.uiv2-user-details",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div._1TP1i[qa=\"allAddressContainer\"]",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div._1TP1i[qa=\"allAddressContainer\"]",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.ng-binding[ng-show=\"!$ctrl.isEditIdentifier\"]",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.ng-binding[ng-show=\"!$ctrl.isEditIdentifier\"]",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.undefined input.false[name=\"email\"][type=\"text\"]",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.undefined input.false[name=\"email\"][type=\"text\"]",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "#new-email-id",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "#new-email-id",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.delivery-address span",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.delivery-address span",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "#mobile",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "#mobile",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.KycApplicationForm__inputHolder",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.KycApplicationForm__inputHolder",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.address-head",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.address-head",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.form-group input.formControl[type=\"text\"][name=\"pin\"][placeholder=\"Enter pincode\"][autocomplete=\"off\"][value=\"\"]",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.form-group input.formControl[type=\"text\"][name=\"pin\"][placeholder=\"Enter pincode\"][autocomplete=\"off\"][value=\"\"]",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.add-address-box-title",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.add-address-box-title",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "main#container div.mainContainer div div.first.show-sec div.container div.sec-cont div ul.checkout-list form div li.checkout-item",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "main#container div.mainContainer div div.first.show-sec div.container div.sec-cont div ul.checkout-list form div li.checkout-item",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.cp-box.field-disabled.shipBillAddressLoader",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.cp-box.field-disabled.shipBillAddressLoader",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.shipping-add-edit-dialog",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.shipping-add-edit-dialog",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "input.formControl[type=\"text\"][placeholder=\"Enter Email ID\"]",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "input.formControl[type=\"text\"][placeholder=\"Enter Email ID\"]",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.shipping-dialog",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.shipping-dialog",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.CreditCardForm__contentHolder",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.CreditCardForm__contentHolder",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.UpiForm__frmFeildRow div[data-test]",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.UpiForm__frmFeildRow div[data-test]",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.GiftCardPopup__inputHolder div[data-test=\"control-input-field-main-div\"]",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.GiftCardPopup__inputHolder div[data-test=\"control-input-field-main-div\"]",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.EditAccountDetails__inputHolder",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.EditAccountDetails__inputHolder",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "#cardNo",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "#cardNo",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "#cardPin",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "#cardPin",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "input.cart-coupon-input-box.offerinput[name=\"coupoun\"][type=\"text\"]",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "input.cart-coupon-input-box.offerinput[name=\"coupoun\"][type=\"text\"]",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div[name=\"firstName\"][type=\"text\"]",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div[name=\"firstName\"][type=\"text\"]",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div[name=\"mobileNumber\"][type=\"number\"]",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div[name=\"mobileNumber\"][type=\"number\"]",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "span.uiv2-mar-top-10.uiv2-profile-username",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "span.uiv2-mar-top-10.uiv2-profile-username",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.CliqCashModule__cardNumber div[data-test]",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.CliqCashModule__cardNumber div[data-test]",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.CashBackDetailsPopup__content",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.CashBackDetailsPopup__content",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "main#container div.mainContainer div[data-testid=\"editAddress\"] div div.container div div.form-list form ul.list li.item",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "main#container div.mainContainer div[data-testid=\"editAddress\"] div div.container div div.form-list form ul.list li.item",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.pincode-list.swiper-container.swiper-container-horizontal.swiper-container-initialized",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.pincode-list.swiper-container.swiper-container-horizontal.swiper-container-initialized",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.address",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.address",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "input.formControl[name=\"emailId\"][type=\"email\"]",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "input.formControl[name=\"emailId\"][type=\"email\"]",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "input.formControl[name=\"mobileNo\"][type=\"tel\"]",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "input.formControl[name=\"mobileNo\"][type=\"tel\"]",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "main#container div.mainContainer div[data-testid=\"myAddressData\"] div div.container div div.form-list form ul.list li.item",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "main#container div.mainContainer div[data-testid=\"myAddressData\"] div div.container div div.form-list form ul.list li.item",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "main#container div.mainContainer div div div.container div ul.order-list li.order-list-item div[data-testid=\"myAddressData\"] div div.container div.sec-cont div div.content-wrap.wrapper-space div.formShadow form div.form-list ul.list li.item",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "main#container div.mainContainer div div div.container div ul.order-list li.order-list-item div[data-testid=\"myAddressData\"] div div.container div.sec-cont div div.content-wrap.wrapper-space div.formShadow form div.form-list ul.list li.item",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "decorview",
+      "Consent": false,
+      "BlockType": 3,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "decorview",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "root",
+      "Consent": false,
+      "BlockType": 3,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "root",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "uiwindow",
+      "Consent": false,
+      "BlockType": 3,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "uiwindow",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "input.mobile[type=\"text\"]",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "input.mobile[type=\"text\"]",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.left span.bold.pincode",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.left span.bold.pincode",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.address-container",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.address-container",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.CliqGiftCardBuySend__buyGiftCardEmailField div[data-test]",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.CliqGiftCardBuySend__buyGiftCardEmailField div[data-test]",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.SavedPaymentCard__dataHolder",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.SavedPaymentCard__dataHolder",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "span.OtherCuponDetails__cuponCodeColor",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "span.OtherCuponDetails__cuponCodeColor",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "span.CuponDetails__cuponCodeColor",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "span.CuponDetails__cuponCodeColor",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.AddressBook__addressHolder",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.AddressBook__addressHolder",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.DeliveryAddressCart__titleContact",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.DeliveryAddressCart__titleContact",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.mobile-container",
+      "Consent": false,
+      "BlockType": 1,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.mobile-container",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "#location",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "#location",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "#flat-no",
+      "Consent": false,
+      "BlockType": 1,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "#flat-no",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "#landmark",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "#landmark",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "h2.name-label",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "h2.name-label",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "#address-type",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "#address-type",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "#my-addresses",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "#my-addresses",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.date-picker",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.date-picker",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "#firstName",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "#firstName",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "#lastName",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "#lastName",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div#spa-root div div div.basicpage.page div div div div div div div div div[data-testid=\"primaryEmailId\"] div input#primaryEmailId[name=\"primaryEmailId\"][type=\"text\"]",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div#spa-root div div div.basicpage.page div div div div div div div div div[data-testid=\"primaryEmailId\"] div input#primaryEmailId[name=\"primaryEmailId\"][type=\"text\"]",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "_uitextfieldcanvasview",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "_uitextfieldcanvasview",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "[nib_name=\"EnterPhoneNumberViewController\"]>uiscrollview>uiview>uiview>uiview>uiview",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "[nib_name=\"EnterPhoneNumberViewController\"]>uiscrollview>uiview>uiview>uiview>uiview",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "[controller=\"TCPApp.SavedAddressesViewController\"]>uitableview>tcpapp\\.addressestableviewcell#tcpApp\\.address\\.tableviewCell[focusable=\"true\"]>uitableviewcellcontentview>uiview>uistackview>uilabel#tcpApp\\.address\\.subtitle",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "[controller=\"TCPApp.SavedAddressesViewController\"]>uitableview>tcpapp\\.addressestableviewcell#tcpApp\\.address\\.tableviewCell[focusable=\"true\"]>uitableviewcellcontentview>uiview>uistackview>uilabel#tcpApp\\.address\\.subtitle",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "uitableviewcellcontentview>gmsmapview>gmsvectormapview",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "uitableviewcellcontentview>gmsmapview>gmsvectormapview",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "tcpuikit\\.materialtextfieldview>uitextfield>_uitextfieldcanvasview",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "tcpuikit\\.materialtextfieldview>uitextfield>_uitextfieldcanvasview",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "uiapplication>uiwindow>uitransitionview>uidropshadowview>uilayoutcontainerview[controller=\"TCPApp.TcpTabBarController\"]>uitransitionview>uiviewcontrollerwrapperview>uilayoutcontainerview[controller=\"UINavigationController\"]>uinavigationtransitionview>uiviewcontrollerwrapperview>uiview[controller=\"TCPApp.OrderDetailDefaultController\"][nib_name=\"OrderDetailDefaultController\"]>uiview>uistackview>uistackview>uistackview>uilabel",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "uiapplication>uiwindow>uitransitionview>uidropshadowview>uilayoutcontainerview[controller=\"TCPApp.TcpTabBarController\"]>uitransitionview>uiviewcontrollerwrapperview>uilayoutcontainerview[controller=\"UINavigationController\"]>uinavigationtransitionview>uiviewcontrollerwrapperview>uiview[controller=\"TCPApp.OrderDetailDefaultController\"][nib_name=\"OrderDetailDefaultController\"]>uiview>uistackview>uistackview>uistackview>uilabel",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "uiview>tcpuikit\\.materialtextfield>uilabel",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "uiview>tcpuikit\\.materialtextfield>uilabel",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "uistackview>tcpuikit\\.materialtextfieldview>uilabel",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "uistackview>tcpuikit\\.materialtextfieldview>uilabel",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "uiview[controller=\"TCPApp.AddCardPageViewController\"][nib_name=\"AddCardPageViewController\"]>uiview>cagradientlayer",
+      "Consent": false,
+      "BlockType": 1,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "uiview[controller=\"TCPApp.AddCardPageViewController\"][nib_name=\"AddCardPageViewController\"]>uiview>cagradientlayer",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "#tcpApp\\.bundleDetailViewController\\.addressButton>uibuttonlabel",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "#tcpApp\\.bundleDetailViewController\\.addressButton>uibuttonlabel",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "uiapplication>uiwindow>uitransitionview>uidropshadowview>uilayoutcontainerview[controller=\"TCPApp.TcpTabBarController\"]>uitransitionview>uiviewcontrollerwrapperview>uilayoutcontainerview[controller=\"UINavigationController\"]>uinavigationtransitionview>uiviewcontrollerwrapperview>uiview[controller=\"TCPApp.NetBankingViewController\"][nib_name=\"NetBankingViewController\"]>uiview>uitableview>tcpapp\\.banklistcell[focusable=\"true\"]>uitableviewcellcontentview>uiview>uilabel",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "uiapplication>uiwindow>uitransitionview>uidropshadowview>uilayoutcontainerview[controller=\"TCPApp.TcpTabBarController\"]>uitransitionview>uiviewcontrollerwrapperview>uilayoutcontainerview[controller=\"UINavigationController\"]>uinavigationtransitionview>uiviewcontrollerwrapperview>uiview[controller=\"TCPApp.NetBankingViewController\"][nib_name=\"NetBankingViewController\"]>uiview>uitableview>tcpapp\\.banklistcell[focusable=\"true\"]>uitableviewcellcontentview>uiview>uilabel",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "#TCPApp\\.OfferDescriptionTableViewCell\\.couponCodeTitleLabel",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "#TCPApp\\.OfferDescriptionTableViewCell\\.couponCodeTitleLabel",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.row.style__address-details___2-ik7",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.row.style__address-details___2-ik7",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.AddressFill__form___l1Mh6",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.AddressFill__form___l1Mh6",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.AddressCard__card___2btE8",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.AddressCard__card___2btE8",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "#phoneNumber",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "#phoneNumber",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.AddressCard__card___22M_q",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.AddressCard__card___22M_q",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "input.style__payerVpa___2x3u3[placeholder=\"Ex: mobilenumber@upi\"]",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "input.style__payerVpa___2x3u3[placeholder=\"Ex: mobilenumber@upi\"]",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "input.bold.fname.input[type=\"text\"]",
+      "Consent": false,
+      "BlockType": 3,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "input.bold.fname.input[type=\"text\"]",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "input.bold.input.lname[type=\"text\"][disabled=\"\"]",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "input.bold.input.lname[type=\"text\"][disabled=\"\"]",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "input.bold.dob.input[type=\"text\"][disabled=\"\"]",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "input.bold.dob.input[type=\"text\"][disabled=\"\"]",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "input.bold.input.phone[type=\"text\"]",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "input.bold.input.phone[type=\"text\"]",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "input.bold.email.input[type=\"text\"]",
+      "Consent": false,
+      "BlockType": 3,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "input.bold.email.input[type=\"text\"]",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "input.fotNewLetInput[type=\"text\"]",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "input.fotNewLetInput[type=\"text\"]",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.pdpNwDlMdPinCol div.quqPqPinActnCol div input.formControl[type=\"text\"]",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.pdpNwDlMdPinCol div.quqPqPinActnCol div input.formControl[type=\"text\"]",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.box_container div div div.col_grow div",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.box_container div div div.col_grow div",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.content div#app.wrap-inner div.modalOpen div.popOverlay div.modalDialogOuter div.modalDialog.modalLogin div.modalInnerBox div.modalOuter.open div.modalContainer div.modalContainerBox.show div.loginNwPopBox div.loginPopInner div div.countryCode.frmFeildSec input.frmControl",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.content div#app.wrap-inner div.modalOpen div.popOverlay div.modalDialogOuter div.modalDialog.modalLogin div.modalInnerBox div.modalOuter.open div.modalContainer div.modalContainerBox.show div.loginNwPopBox div.loginPopInner div div.countryCode.frmFeildSec input.frmControl",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.modalInnerBox div.modalOuter.open div.modalContainer div.modalContainerBox.show div.loginNwPopBox div.loginPopInner div div.frmFeildSec input.frmControl[type=\"text\"]",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.modalInnerBox div.modalOuter.open div.modalContainer div.modalContainerBox.show div.loginNwPopBox div.loginPopInner div div.frmFeildSec input.frmControl[type=\"text\"]",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.profEditInfoCol",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.profEditInfoCol",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.flexBotRow div div input.formContrlSm.formControl",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.flexBotRow div div input.formContrlSm.formControl",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.dateFormFeild.flxDateRow",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.dateFormFeild.flxDateRow",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div div.chkOutSavedAddrTxt address",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div div.chkOutSavedAddrTxt address",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.editAddresBox div.editAddressForm div.formGroup",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.editAddresBox div.editAddressForm div.formGroup",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "li.ordDtlsListItem div div div div.formGroup.formGroupLogin input.formControl",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "li.ordDtlsListItem div div div div.formGroup.formGroupLogin input.formControl",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "li.ordDtlsListItem div textarea.formControl.txtArea",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "li.ordDtlsListItem div textarea.formControl.txtArea",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.cardDtlsSec div.cardDtlsBlock div.formGroup",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.cardDtlsSec div.cardDtlsBlock div.formGroup",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.upi-form-sec div.flexBotRow div div div.formGroup.formGroupLogin input.formContrlSm.formControl[type=\"text\"]",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.upi-form-sec div.flexBotRow div div div.formGroup.formGroupLogin input.formContrlSm.formControl[type=\"text\"]",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.clChDtlsPopUpBox div.clChDtlsFormSec div.formGroup",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.clChDtlsPopUpBox div.clChDtlsFormSec div.formGroup",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.content div#app.wrap-inner div.modalOpen div.contentSec div div div.profEditfSec div.profEditRow div.profEditInfoCol div.prfEdtPlceHold img",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.content div#app.wrap-inner div.modalOpen div.contentSec div div div.profEditfSec div.profEditRow div.profEditInfoCol div.prfEdtPlceHold img",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.checkSvdSard.paySvdCrdBox.svdCrdBox div.svdCardDtlsInner div.svdCardDtlsRow div.svdCardDtlsCols",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.checkSvdSard.paySvdCrdBox.svdCrdBox div.svdCardDtlsInner div.svdCardDtlsRow div.svdCardDtlsCols",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.emptCrtNewContnt div.empCrtInfoSec h4",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.emptCrtNewContnt div.empCrtInfoSec h4",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.content div#app.wrap-inner div.modalOpen div.popOverlayLgt div.modalDialogOuter div div div input[type=\"text\"]",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.content div#app.wrap-inner div.modalOpen div.popOverlayLgt div.modalDialogOuter div div div input[type=\"text\"]",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.upi-saved-list-box div.upi-saved-item div.upi-saved-box",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.upi-saved-list-box div.upi-saved-item div.upi-saved-box",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.AddressItem__address",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.AddressItem__address",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.DesktopHeader__nameAndContact",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.DesktopHeader__nameAndContact",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "tcpuikit\\.avatarview",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "tcpuikit\\.avatarview",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "#emailId",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "#emailId",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "#user_email",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "#user_email",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "#pinCode",
+      "Consent": false,
+      "BlockType": 1,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "#pinCode",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "#dob",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "#dob",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "#flatNo",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "#flatNo",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "#pincode",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "#pincode",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "#phone",
+      "Consent": false,
+      "BlockType": 1,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "#phone",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "#email",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "#email",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "#cardAlias",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "#cardAlias",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "#billpay-customer-number-input-0",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "#billpay-customer-number-input-0",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "#password",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "#password",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "#confirmPassword",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "#confirmPassword",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "#middleName",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "#middleName",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "#tcpApp\\.AccountList\\.userName",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "#tcpApp\\.AccountList\\.userName",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "_uitextlayoutfragmentview",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "_uitextlayoutfragmentview",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.first-name-field.form-group input.form-control[type=\"text\"]",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.first-name-field.form-group input.form-control[type=\"text\"]",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.form-group.last-name-field input.form-control[type=\"text\"]",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.form-group.last-name-field input.form-control[type=\"text\"]",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.mobileno input.form-control[type=\"tel\"]",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.mobileno input.form-control[type=\"tel\"]",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.email-field.form-group input.form-control[type=\"email\"]",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.email-field.form-group input.form-control[type=\"email\"]",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.form-group.more-connection-pincode.pincode-field input.form-control[type=\"tel\"]",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.form-group.more-connection-pincode.pincode-field input.form-control[type=\"tel\"]",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "form.address-form",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "form.address-form",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.MuiDialog-root[role=\"presentation\"] div.MuiDialog-container.MuiDialog-scrollPaper[role=\"none presentation\"] div.MuiDialog-paper.MuiDialog-paperScrollPaper.MuiDialog-paperWidthSm.MuiPaper-root.MuiPaper-rounded[role=\"dialog\"] div.MuiDialogContent-root div.card div small.card-subtitle a strong",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.MuiDialog-root[role=\"presentation\"] div.MuiDialog-container.MuiDialog-scrollPaper[role=\"none presentation\"] div.MuiDialog-paper.MuiDialog-paperScrollPaper.MuiDialog-paperWidthSm.MuiPaper-root.MuiPaper-rounded[role=\"dialog\"] div.MuiDialogContent-root div.card div small.card-subtitle a strong",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "main#container div.mainContainer div div.first.show-sec div.container div.sec-cont div ul.checkout-list form li.checkout-item div div.form-list form ul.list li.item div.MuiSnackbar-anchorOriginBottomCenter.MuiSnackbar-root div.MuiAlert-filledError.MuiAlert-root.MuiPaper-root[role=\"alert\"]",
+      "Consent": false,
+      "BlockType": 3,
+      "Platforms": [
+        1
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "main#container div.mainContainer div div.first.show-sec div.container div.sec-cont div ul.checkout-list form li.checkout-item div div.form-list form ul.list li.item div.MuiSnackbar-anchorOriginBottomCenter.MuiSnackbar-root div.MuiAlert-filledError.MuiAlert-root.MuiPaper-root[role=\"alert\"]",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "#sm-guestname",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "#sm-guestname",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "#sm-guestphone",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "#sm-guestphone",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.checkout-confirmation-layout.taj div main main.confirmation-main div.confiramtion-wrap.container.content-wrapper div.responsivegrid.root div div.bookHotelConfirmation div div.itinerary-confirm div div.confirmation-con div.confirmation-header div.confirmation-text-con div.text-con div.confirmation-text div#thank-you span#name",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.checkout-confirmation-layout.taj div main main.confirmation-main div.confiramtion-wrap.container.content-wrapper div.responsivegrid.root div div.bookHotelConfirmation div div.itinerary-confirm div div.confirmation-con div.confirmation-header div.confirmation-text-con div.text-con div.confirmation-text div#thank-you span#name",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "#insurance\\.selectaddress\\.address_label",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "#insurance\\.selectaddress\\.address_label",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "#TCPApp\\.CardOfferCollectionViewCell\\.offerTitleLabel",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "#TCPApp\\.CardOfferCollectionViewCell\\.offerTitleLabel",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "tcpapp\\.upipendingmandatetableviewcell>uitableviewcellcontentview>uiview",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "tcpapp\\.upipendingmandatetableviewcell>uitableviewcellcontentview>uiview",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "uiapplication>uiwindow>uitransitionview>uiview[controller=\"TCPUIKit.PickerViewController\"]>uitableview>tcpuikit\\.pickerviewcontrollercell[focusable=\"true\"]>uitableviewcellcontentview>uilabel",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "uiapplication>uiwindow>uitransitionview>uiview[controller=\"TCPUIKit.PickerViewController\"]>uitableview>tcpuikit\\.pickerviewcontrollercell[focusable=\"true\"]>uitableviewcellcontentview>uilabel",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "uiapplication>uiwindow>uitransitionview>uiview[controller=\"TCPUIKit.DatePickerViewController\"]>uiview>uidatepicker>_uidatepickerview>uiview>cagradientlayer",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "uiapplication>uiwindow>uitransitionview>uiview[controller=\"TCPUIKit.DatePickerViewController\"]>uiview>uidatepicker>_uidatepickerview>uiview>cagradientlayer",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "#nav-myprofile",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "#nav-myprofile",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.personalDetails-tab",
+      "Consent": false,
+      "BlockType": 1,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.personalDetails-tab",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.contactDetails-tab",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.contactDetails-tab",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.emergencyContacts-tab",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.emergencyContacts-tab",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.documents-tab",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.documents-tab",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "#insurance\\.findAddress\\.findAddresstitle",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "#insurance\\.findAddress\\.findAddresstitle",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "#insurance\\.findAddress\\.findAddressDescription",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "#insurance\\.findAddress\\.findAddressDescription",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.checkoutLoader",
+      "Consent": false,
+      "BlockType": 1,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.checkoutLoader",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.cp-box.shipBillAddressLoader",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.cp-box.shipBillAddressLoader",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.cp-pincode",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.cp-pincode",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "div.header-store-enquiry",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "div.header-store-enquiry",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "span.pincode",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "span.pincode",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "uiapplication>uiwindow>uitransitionview>uidropshadowview>uilayoutcontainerview[controller=\"TCPApp.TcpTabBarController\"]>uitransitionview>uiviewcontrollerwrapperview>uilayoutcontainerview[controller=\"UINavigationController\"]>uinavigationtransitionview>uiviewcontrollerwrapperview>uiview[controller=\"TCPSearchKit.SearchViewController\"][nib_name=\"SearchViewController\"]>uistackview>uiview>uiview",
+      "Consent": false,
+      "BlockType": 3,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "uiapplication>uiwindow>uitransitionview>uidropshadowview>uilayoutcontainerview[controller=\"TCPApp.TcpTabBarController\"]>uitransitionview>uiviewcontrollerwrapperview>uilayoutcontainerview[controller=\"UINavigationController\"]>uinavigationtransitionview>uiviewcontrollerwrapperview>uiview[controller=\"TCPSearchKit.SearchViewController\"][nib_name=\"SearchViewController\"]>uistackview>uiview>uiview",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "#edtPrimaryEmailId",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "#edtPrimaryEmailId",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "#edtPhoneNumber",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "#edtPhoneNumber",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "#txtAddress",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "#txtAddress",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "framelayout#flHomeFragmentContainer>flutterview>fluttersurfaceview",
+      "Consent": false,
+      "BlockType": 3,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "framelayout#flHomeFragmentContainer>flutterview>fluttersurfaceview",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "#defaultWebView",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "#defaultWebView",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "#edtEmail",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "#edtEmail",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "#etCardNumber",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "#etCardNumber",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "#etExpMonth",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "#etExpMonth",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "#ivLoader",
+      "Consent": false,
+      "BlockType": 3,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "#ivLoader",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "fluttersurfaceview",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "fluttersurfaceview",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "flutterview>fluttersurfaceview",
+      "Consent": false,
+      "BlockType": 3,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "flutterview>fluttersurfaceview",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "framelayout#flHomeFragmentContainer>flutterview[tag=\"NeuFlutterFragment\"]>fluttersurfaceview[tag=\"NeuFlutterFragment\"]",
+      "Consent": false,
+      "BlockType": 3,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "framelayout#flHomeFragmentContainer>flutterview[tag=\"NeuFlutterFragment\"]>fluttersurfaceview[tag=\"NeuFlutterFragment\"]",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "uilayoutcontainerview[controller=\"TCPApp.TcpTabBarController\"]>uivisualeffectview[tag=\"101\"]>_uivisualeffectsubview",
+      "Consent": false,
+      "BlockType": 3,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "uilayoutcontainerview[controller=\"TCPApp.TcpTabBarController\"]>uivisualeffectview[tag=\"101\"]>_uivisualeffectsubview",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "_uivisualeffectsubview",
+      "Consent": false,
+      "BlockType": 3,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "_uivisualeffectsubview",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "uiapplication>uiwindow>uiview[tag=\"100\"]",
+      "Consent": false,
+      "BlockType": 3,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "uiapplication>uiwindow>uiview[tag=\"100\"]",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "uinavigationtransitionview>uiviewcontrollerwrapperview>flutterview[controller=\"TCPApp.NeuFlutterViewController\"]",
+      "Consent": false,
+      "BlockType": 3,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "uinavigationtransitionview>uiviewcontrollerwrapperview>flutterview[controller=\"TCPApp.NeuFlutterViewController\"]",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "#appCompatImageView",
+      "Consent": false,
+      "BlockType": 3,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "#appCompatImageView",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "#splashMainLayout",
+      "Consent": false,
+      "BlockType": 3,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "#splashMainLayout",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "#action_button_okay",
+      "Consent": false,
+      "BlockType": 3,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "#action_button_okay",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "uitransitionview>uiview[controller=\"TCPUIKit.TCPAlertViewController\"][nib_name=\"TCPAlertViewController\"]>uiview",
+      "Consent": false,
+      "BlockType": 3,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "uitransitionview>uiview[controller=\"TCPUIKit.TCPAlertViewController\"][nib_name=\"TCPAlertViewController\"]>uiview",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "uistackview>uiview>uiimageview",
+      "Consent": false,
+      "BlockType": 1,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "uistackview>uiview>uiimageview",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "uiapplication>uiwindow>uitransitionview>uidropshadowview>uilayoutcontainerview[controller=\"UINavigationController\"]>uinavigationtransitionview>uiviewcontrollerwrapperview>uiview[controller=\"TCPApp.EnterPhoneNumberViewController\"][nib_name=\"EnterPhoneNumberViewController\"]>uiscrollview>uiview>uistackview>uiview>uilabel",
+      "Consent": false,
+      "BlockType": 1,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "uiapplication>uiwindow>uitransitionview>uidropshadowview>uilayoutcontainerview[controller=\"UINavigationController\"]>uinavigationtransitionview>uiviewcontrollerwrapperview>uiview[controller=\"TCPApp.EnterPhoneNumberViewController\"][nib_name=\"EnterPhoneNumberViewController\"]>uiscrollview>uiview>uistackview>uiview>uilabel",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "uibutton",
+      "Consent": false,
+      "BlockType": 1,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "uibutton",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "#clRootView>cardview[tag=\"AppUpdateDialogFragment\"]",
+      "Consent": false,
+      "BlockType": 3,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "#clRootView>cardview[tag=\"AppUpdateDialogFragment\"]",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "#copyrightYearTextView",
+      "Consent": false,
+      "BlockType": 1,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "#copyrightYearTextView",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "#btnUpdateNow",
+      "Consent": false,
+      "BlockType": 3,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "#btnUpdateNow",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "#tvMsg",
+      "Consent": false,
+      "BlockType": 3,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "#tvMsg",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "#custom_toast_container>constraintlayout",
+      "Consent": false,
+      "BlockType": 1,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "#custom_toast_container>constraintlayout",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "#tvToastMsg",
+      "Consent": false,
+      "BlockType": 3,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "#tvToastMsg",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "tcpuikit\\.tcpbutton",
+      "Consent": false,
+      "BlockType": 3,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "tcpuikit\\.tcpbutton",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "cardview[tag=\"AppUpdateDialogFragment\"]",
+      "Consent": false,
+      "BlockType": 3,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "cardview[tag=\"AppUpdateDialogFragment\"]",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "#tvExitApp",
+      "Consent": false,
+      "BlockType": 3,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "#tvExitApp",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "#ivAppIcon",
+      "Consent": false,
+      "BlockType": 3,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "#ivAppIcon",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "flutterview[controller=\"TCPApp.NeuFlutterViewController\"]",
+      "Consent": false,
+      "BlockType": 3,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "flutterview[controller=\"TCPApp.NeuFlutterViewController\"]",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "flutterview",
+      "Consent": false,
+      "BlockType": 3,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "flutterview",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "uitabbar",
+      "Consent": false,
+      "BlockType": 3,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "uitabbar",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "#tcpApp\\.AccountList\\.sectionTitle",
+      "Consent": false,
+      "BlockType": 3,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "#tcpApp\\.AccountList\\.sectionTitle",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "uiapplication>uiwindow>uitransitionview>uidropshadowview>uilayoutcontainerview[controller=\"TCPApp.TcpTabBarController\"]>uitransitionview>uiviewcontrollerwrapperview>uilayoutcontainerview[controller=\"UINavigationController\"]>uinavigationtransitionview>uiviewcontrollerwrapperview>uiview[storyboard=\"Orderdetails\"][nib_name=\"H3W-Bc-GA4-view-dfi-IF-G7S\"][controller=\"TCPPaymentsKit.OrderDetailsViewController\"]>uitableview>tcppaymentskit\\.poweredbytableviewcell[focusable=\"true\"]",
+      "Consent": false,
+      "BlockType": 3,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "uiapplication>uiwindow>uitransitionview>uidropshadowview>uilayoutcontainerview[controller=\"TCPApp.TcpTabBarController\"]>uitransitionview>uiviewcontrollerwrapperview>uilayoutcontainerview[controller=\"UINavigationController\"]>uinavigationtransitionview>uiviewcontrollerwrapperview>uiview[storyboard=\"Orderdetails\"][nib_name=\"H3W-Bc-GA4-view-dfi-IF-G7S\"][controller=\"TCPPaymentsKit.OrderDetailsViewController\"]>uitableview>tcppaymentskit\\.poweredbytableviewcell[focusable=\"true\"]",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "uidropshadowview>uilayoutcontainerview[controller=\"TCPApp.TcpTabBarController\"]>uitabbar",
+      "Consent": false,
+      "BlockType": 3,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "uidropshadowview>uilayoutcontainerview[controller=\"TCPApp.TcpTabBarController\"]>uitabbar",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "uiapplication>uiwindow>uitransitionview>uidropshadowview>uilayoutcontainerview[controller=\"TCPApp.TcpTabBarController\"]>uitabbar>uitabbarbutton>uitabbarswappableimageview",
+      "Consent": false,
+      "BlockType": 3,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "uiapplication>uiwindow>uitransitionview>uidropshadowview>uilayoutcontainerview[controller=\"TCPApp.TcpTabBarController\"]>uitabbar>uitabbarbutton>uitabbarswappableimageview",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "uiapplication>uiwindow>uitransitionview>uidropshadowview>uilayoutcontainerview[controller=\"TCPApp.TcpTabBarController\"]>uitabbar>uitabbarbutton>uitabbarbuttonlabel",
+      "Consent": false,
+      "BlockType": 3,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "uiapplication>uiwindow>uitransitionview>uidropshadowview>uilayoutcontainerview[controller=\"TCPApp.TcpTabBarController\"]>uitabbar>uitabbarbutton>uitabbarbuttonlabel",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "uitableviewcellcontentview>uiview>uistackview>uilabel",
+      "Consent": false,
+      "BlockType": 3,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "uitableviewcellcontentview>uiview>uistackview>uilabel",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "uiapplication>uiwindow>uitransitionview>uidropshadowview>uilayoutcontainerview[controller=\"TCPApp.TcpTabBarController\"]>uivisualeffectview[tag=\"101\"]>_uivisualeffectsubview",
+      "Consent": false,
+      "BlockType": 3,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "uiapplication>uiwindow>uitransitionview>uidropshadowview>uilayoutcontainerview[controller=\"TCPApp.TcpTabBarController\"]>uivisualeffectview[tag=\"101\"]>_uivisualeffectsubview",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "uiviewcontrollerwrapperview>flutterview[controller=\"TCPApp.NeuFlutterViewController\"]",
+      "Consent": false,
+      "BlockType": 3,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "uiviewcontrollerwrapperview>flutterview[controller=\"TCPApp.NeuFlutterViewController\"]",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "uinavigationtransitionview uiviewcontrollerwrapperview flutterview[controller=\"TCPApp.NeuFlutterViewController\"]",
+      "Consent": false,
+      "BlockType": 3,
+      "Platforms": [
+        1
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "uinavigationtransitionview uiviewcontrollerwrapperview flutterview[controller=\"TCPApp.NeuFlutterViewController\"]",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": ".NeuFlutterViewController",
+      "Consent": false,
+      "BlockType": 3,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": ".NeuFlutterViewController",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "tcpapp.NeuFlutterViewController",
+      "Consent": false,
+      "BlockType": 3,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "tcpapp.NeuFlutterViewController",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "uiapplication>uiwindow>uitransitionview>uidropshadowview>uilayoutcontainerview[controller=\"TCPApp.TcpTabBarController\"]>uitransitionview>uiviewcontrollerwrapperview>uilayoutcontainerview[controller=\"UINavigationController\"]>uinavigationtransitionview>uiviewcontrollerwrapperview>flutterview[controller=\"TCPApp.NeuFlutterViewController\"]",
+      "Consent": false,
+      "BlockType": 3,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "uiapplication>uiwindow>uitransitionview>uidropshadowview>uilayoutcontainerview[controller=\"TCPApp.TcpTabBarController\"]>uitransitionview>uiviewcontrollerwrapperview>uilayoutcontainerview[controller=\"UINavigationController\"]>uinavigationtransitionview>uiviewcontrollerwrapperview>flutterview[controller=\"TCPApp.NeuFlutterViewController\"]",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "#carousal_image",
+      "Consent": false,
+      "BlockType": 3,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "#carousal_image",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "uicollectionview>tcpapp\\.fslmoneysubcardcell[focusable=\"true\"]>cagradientlayer",
+      "Consent": false,
+      "BlockType": 3,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "uicollectionview>tcpapp\\.fslmoneysubcardcell[focusable=\"true\"]>cagradientlayer",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "",
+      "Consent": false,
+      "BlockType": 1,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": ".fs-exclude",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "",
+      "Consent": true,
+      "BlockType": 1,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": ".fs-exclude-without-consent",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": ".fs-mask",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "",
+      "Consent": true,
+      "BlockType": 2,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": ".fs-mask-without-consent",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "",
+      "Consent": false,
+      "BlockType": 3,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": ".fs-unmask",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "",
+      "Consent": true,
+      "BlockType": 3,
+      "Platforms": [
+        1,
+        2,
+        3
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": ".fs-unmask-with-consent",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "",
+      "Consent": false,
+      "BlockType": 1,
+      "Platforms": [
+        1
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": ".fs-hide",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "",
+      "Consent": false,
+      "BlockType": 1,
+      "Platforms": [
+        1
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": ".fs-block",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "",
+      "Consent": true,
+      "BlockType": 1,
+      "Platforms": [
+        1
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": ".fs-record-with-consent",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "",
+      "Consent": false,
+      "BlockType": 2,
+      "Platforms": [
+        1
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "html",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "",
+      "Consent": false,
+      "BlockType": 3,
+      "Platforms": [
+        1
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "link",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "",
+      "Consent": false,
+      "BlockType": 3,
+      "Platforms": [
+        1
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "style",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    },
+    {
+      "Name": "",
+      "Consent": false,
+      "BlockType": 3,
+      "Platforms": [
+        1
+      ],
+      "TargetedSelectorsForCapture": [
+        {
+          "Selector": "base",
+          "Platforms": null,
+          "MinVersion": null,
+          "MaxVersion": null
+        }
+      ],
+      "GroupId": 0
+    }
+  ],
+  "ElementDeferreds": [],
+  "ElementKeeps": null,
+  "ElementWatches": [],
+  "OrgSettings": {
+    "AttributeBlocklist": [
+      {
+        "Target": 0,
+        "Tag": "*",
+        "Name": "src",
+        "Action": 2
+      },
+      {
+        "Target": 0,
+        "Tag": "iframe",
+        "Name": "srcdoc",
+        "Action": 0
+      },
+      {
+        "Target": 0,
+        "Tag": "frame",
+        "Name": "src",
+        "Action": 2
+      },
+      {
+        "Target": 0,
+        "Tag": "frame",
+        "Name": "srcdoc",
+        "Action": 0
+      },
+      {
+        "Target": 0,
+        "Tag": "*",
+        "Name": "data-v-form-field",
+        "Action": 0
+      },
+      {
+        "Target": 1,
+        "Tag": "*",
+        "Name": "alt",
+        "Action": 0
+      },
+      {
+        "Target": 1,
+        "Tag": "*",
+        "Name": "checked",
+        "Action": 0
+      },
+      {
+        "Target": 1,
+        "Tag": "*",
+        "Name": "data",
+        "Action": 0
+      },
+      {
+        "Target": 1,
+        "Tag": "*",
+        "Name": "href",
+        "Action": 0
+      },
+      {
+        "Target": 1,
+        "Tag": "*",
+        "Name": "placeholder",
+        "Action": 0
+      },
+      {
+        "Target": 1,
+        "Tag": "*",
+        "Name": "src",
+        "Action": 0
+      },
+      {
+        "Target": 1,
+        "Tag": "*",
+        "Name": "srcset",
+        "Action": 0
+      },
+      {
+        "Target": 1,
+        "Tag": "*",
+        "Name": "style",
+        "Action": 3
+      },
+      {
+        "Target": 1,
+        "Tag": "*",
+        "Name": "title",
+        "Action": 0
+      },
+      {
+        "Target": 1,
+        "Tag": "*",
+        "Name": "value",
+        "Action": 0
+      },
+      {
+        "Target": 2,
+        "Tag": "*",
+        "Name": "checked",
+        "Action": 0
+      },
+      {
+        "Target": 2,
+        "Tag": "*",
+        "Name": "data",
+        "Action": 0
+      },
+      {
+        "Target": 2,
+        "Tag": "*",
+        "Name": "alt",
+        "Action": 1
+      },
+      {
+        "Target": 2,
+        "Tag": "*",
+        "Name": "placeholder",
+        "Action": 1
+      },
+      {
+        "Target": 2,
+        "Tag": "*",
+        "Name": "title",
+        "Action": 1
+      },
+      {
+        "Target": 2,
+        "Tag": "*",
+        "Name": "value",
+        "Action": 1
+      },
+      {
+        "Target": 2,
+        "Tag": "option",
+        "Name": "label",
+        "Action": 1
+      },
+      {
+        "Target": 2,
+        "Tag": "*",
+        "Name": "placeholder",
+        "Action": 1
+      },
+      {
+        "Target": 1,
+        "Tag": "*",
+        "Name": "data-com.agilebits.onepassword.initial-value",
+        "Action": 0
+      },
+      {
+        "Target": 1,
+        "Tag": "*",
+        "Name": "data-kwcachedvalue",
+        "Action": 0
+      },
+      {
+        "Target": 0,
+        "Tag": "*",
+        "Name": "href",
+        "Action": 2
+      }
+    ],
+    "HttpRequestHeadersAllowlist": [
+      "a-im",
+      "accept",
+      "accept-charset",
+      "accept-encoding",
+      "accept-language",
+      "accept-datetime",
+      "access-control-request-method",
+      "access-control-request-headers",
+      "cache-control",
+      "connection",
+      "content-length",
+      "content-md5",
+      "content-type",
+      "date",
+      "expect",
+      "forwarded",
+      "from",
+      "host",
+      "if-match",
+      "if-modified-since",
+      "if-none-match",
+      "if-range",
+      "if-unmodified-since",
+      "max-forwards",
+      "origin",
+      "pragma",
+      "range",
+      "referer",
+      "te",
+      "user-agent",
+      "upgrade",
+      "via",
+      "warning",
+      "x-b3-traceid"
+    ],
+    "HttpResponseHeadersAllowlist": [
+      "access-control-allow-origin",
+      "access-control-allow-credentials",
+      "access-control-expose-headers",
+      "access-control-max-age",
+      "access-control-allow-methods",
+      "access-control-allow-headers",
+      "accept-patch",
+      "accept-ranges",
+      "age",
+      "allow",
+      "alt-svc",
+      "cache-control",
+      "connection",
+      "content-disposition",
+      "content-encoding",
+      "content-language",
+      "content-length",
+      "content-location",
+      "content-md5",
+      "content-range",
+      "content-type",
+      "date",
+      "delta-base",
+      "etag",
+      "expires",
+      "im",
+      "last-modified",
+      "link",
+      "location",
+      "permanent",
+      "p3p",
+      "pragma",
+      "proxy-authenticate",
+      "public-key-pins",
+      "retry-after",
+      "permanent",
+      "server",
+      "status",
+      "strict-transport-security",
+      "trailer",
+      "transfer-encoding",
+      "tk",
+      "upgrade",
+      "vary",
+      "via",
+      "warning",
+      "www-authenticate",
+      "x-b3-traceid",
+      "x-frame-options"
+    ],
+    "MaxAjaxPayloadLength": 16384,
+    "MaxConsoleLogPerPage": 1024,
+    "MaxPerfMarksPerPage": 16384,
+    "MaxUrlLength": 2048,
+    "RecordPerformanceResourceImg": true,
+    "RecordPerformanceResourceTiming": true,
+    "UrlPathBlocklist": [],
+    "UrlPrivacyConfig": [
+      {
+        "Exclude": {
+          "Hash": [
+            {
+              "Expression": "#access_token.*"
+            }
+          ],
+          "QueryParam": [
+            {
+              "Expression": "(password.*=)(.*)"
+            },
+            {
+              "Expression": "(token.*=)(.*)"
+            },
+            {
+              "Expression": "^(code=)(.*)"
+            },
+            {
+              "Expression": "^(jwt=)(.*)"
+            }
+          ]
+        }
+      }
+    ],
+    "UrlQueryStringBlocklist": [
+      "(password.*=)(.*)",
+      "(token.*=)(.*)",
+      "^(code=)(.*)",
+      "^(jwt=)(.*)"
+    ]
+  },
+  "UrlKeeps": null,
+  "DwellTime": 0
+}

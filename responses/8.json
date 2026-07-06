@@ -1,0 +1,73 @@
+{
+  "success": "Config fetched",
+  "config": {
+    "_id": "646daac343680a50726914a9",
+    "urls": [
+      "reqbin",
+      "transaction",
+      "orderConfirmation",
+      "order-confirmation",
+      "potential-order"
+    ],
+    "bufferArrayLength": 0,
+    "bufferIntervalInSeconds": 5,
+    "bufferSizeInKb": 0,
+    "dataPublishEndpoint": "https://api.tatadigital.com/analytics-engine/events/v1",
+    "sessionIdExpiresInS": 86400,
+    "redirectedFromTCPFlagExpiresInS": 86400,
+    "redisTtlInSeconds": 2592000,
+    "createdAt": "2023-05-11T08:21:54.108Z",
+    "updatedAt": "2023-05-11T08:21:54.108Z",
+    "__v": 0,
+    "customerHashValidityInS": 604800,
+    "keyToCheckLoginState": [],
+    "eventToSendConfig": [],
+    "recordAnalytics": true,
+    "syncTrackingUrls": [
+      "/complete/orderv3/",
+      "/order/place_web_order/",
+      "/order/v1/order",
+      "/mapi/v3.5.2/order/list-new/",
+      "/api/v1/order/orders",
+      "/mapi/v3.5.0/order/order-assistant/",
+      "/co/delivery-preferences-new/",
+      "/order/v1/potentialorder/",
+      "/mapi/v3.5.2/order/delivery-preferences",
+      "/basketService/update-qty/",
+      "/mapi/v3.5.2/c-incr-i/",
+      "/mapi/v3.5.2/c-set-i/",
+      "/basketService/del-item/",
+      "/mapi/v3.5.2/c-decr-i/",
+      "/msl/add-item/",
+      "/mapi/v3.5.2/member/add-to-sfl/",
+      "/mapi/v4.2.0/member/remove-from-sfl/",
+      "/msl/remove-item/",
+      "/msl/delete-shoppinglist-items/",
+      "/_next/data/",
+      "/custompage/sysgenpd",
+      "/listing-svc/v2/products"
+    ],
+    "htmlPageScriptTagKeywords": {
+      "/pd/": "window.__PRELOADED_STATE__"
+    },
+    "recordGtmEvents": true,
+    "dataLayerArgumentEventsToRecord": [],
+    "dataLayerObjectEventsToRecord": [
+      "add_to_basket_onclick",
+      "eec.impressionView",
+      "gtm.historyChange-v2",
+      "gtm.load",
+      "eec.detail",
+      "eec.add"
+    ],
+    "modifyHistoryOwnMethods": true,
+    "recordWebVitals": false,
+    "brand": "BIGBASKET",
+    "browserEventsToRecord": [
+      "click"
+    ],
+    "clientId": "BIGBASKET-WEB-DESKTOP-APP",
+    "listenToPastDataLayerEvents": true,
+    "recordJsDispatchedClicks": false
+  }
+}
