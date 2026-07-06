@@ -3,3 +3,4 @@ pandas
 chromium
 streamlit
 streamlit-autorefresh
+requests
